@@ -1,0 +1,269 @@
+Release 85
+Link: https://twitter.com/hatukisu/status/1220999803473027072
+
+
+Page 1
+
+OCR:
+
+ちょっと
+トイレ!
+
+うん
+
+もしかしてオレ...
+
+すごく恥ずかしいかっこうしてる?
+
+どっかで買えたりしないしないかな?
+
+こんなんじゃ泳げないよ
+
+スマホ...
+スマホ
+
+!?
+
+これ...
+
+朝にもらった...
+
+ガサッ
+
+
+Machine translation:
+
+Akira: Sorry, bathroom ! / Hey Toy Les!
+
+Rumi: Yup / Yes
+
+Akira (thinking x 4): But ol ... / But Ol...
+
+Akira: How embarrassing are you? / It's a great shame, but it's all right?
+
+Akira: Can you buy it somewhere? / Can't you buy it somewhere?
+
+Akira: I can't swim / Come on, you can't swim.
+
+Aside: Smartphone ... Smartphone
+
+Akira: !?
+
+Akira: This... 
+
+Akira: I got it in the morning ... / In the morning...
+
+SFX: Gassass / Gassat
+
+
+Interpretation: 
+
+Akira: I'll be right back, I have to go to the toilet!
+
+Rumi: Sure
+
+Akira (thinking x 4): How is it possible that I... [imhikarucat: Akira using "ore".]
+
+Akira: am so embarrassed about showing my figure?
+
+Akira: Can I go shopping for another somewhere?
+
+Akira: I can't go out swimming like this.
+
+Aside: Smartphone... smartphone [ubo: I believe Akira is looking in her bag for a phone to call for help, and I can only assume it would be from Okabe-san, who seems to be her lifeline in such situations.]
+
+Akira: !?
+
+Akira: This...
+
+Akira: I got this in the morning... [ubo: referring to the paper bag inside her carrying bag which was handed to her by her grandma]
+
+SFX: *rustle*
+
+
+---
+
+
+Page 2
+
+OCR:
+
+ラッシュガードです。
+着たまま海に入れます。
+
+オレを男扱いするのは...
+
+あれ?
+
+それで泳ぐの?
+
+うん!
+
+下に水着
+着てきたんだけど
+
+やっぱり恥ずかしくて
+
+そっかー
+
+
+Machine translation:
+
+Paper note: It is a rash guard. / It is a rush guard. Put it in the sea while wearing it.
+
+Narration: To treat me as a man ... / It's...
+
+Rumi: That?
+
+Rumi: Do you swim? / So you're going to swim? 
+
+Akira: Yup! / yes! 
+
+Akira: I'm wearing a swimsuit below / I've been wearing a swimsuit underneath.
+
+Akira: After all I was ashamed / I'm ashamed after all.
+
+Rumi: Is that so / That's it.
+
+
+Interpretation:
+
+Paper note: Here is a rash guard. Wear it when you are at the beach. [ubo: A rashguard is like a waterproof shirt you wear at the beach to protect you from the elements, and from image search, it seems the version with a zipper is quite popular in Japan.]
+
+Narration: Treating me like I'm a guy... [imhikarucat: Akira also using "ore" in this]
+
+Rumi: Huh?
+
+Rumi: So are you going to swim?
+
+Akira: Yes!
+
+Akira: I am wearing a swimsuit underneath.
+
+Akira: But I found it embarrassing.
+
+Rumi: Is that so.
+
+
+---
+
+
+Page 3
+
+OCR:
+
+けど水着は見せて
+
+んっ
+
+ガララ
+
+ただいまー
+
+おかえり
+
+お風呂湧いてるよ
+
+
+Machine translation:
+
+Rumi: But show me your swimsuit
+
+Akira: Hmm
+
+SFX: Galara / Galala
+
+Akira: I'm home / Oh, my Go.
+
+Mom: Welcome back
+
+Mom: I have a bath / I'm springing up a bath.
+
+
+Interpretation: 
+
+Rumi: Even so, show me your swimsuit.
+
+Akira: *grunt*
+
+SFX: *slide*
+
+Akira: I am home
+
+Mom: Welcome back
+
+Mom: I am filling up a bath
+
+
+---
+
+
+Page 4
+
+OCR:
+
+ドン
+
+疲れた?
+
+‥うん
+
+母さん
+
+何？
+
+もう少し
+
+このままでいさせて…
+
+
+Machine translation:
+
+SFX: Don
+
+Mom: Tired?
+
+Akira: ‥Yup / ..yes 
+
+Akira: Mother 
+
+Mom: What? 
+
+Akira: A little more
+
+Akira: Let me stay this way ... / Let me stay like this...
+
+
+Interpretation: 
+
+SFX: *bump*
+
+Mom: Are you feeling tired?
+
+Akira: ..Yes
+
+Akira: Mom
+
+Mom: What is it?
+
+Akira: For just a little bit more
+
+Akira: I'd like to stay this way...
+
+(Last panel rephrase: Akira: I want to stay like this a little bit more)
+
+
+-
+
+
+Appendix A
+
+(This is optional reading.)
+
+Ubo's main replacements to hikarucat's work:
+
+I often have to make judgement calls when I replace something hikarucat did. So for any non-trivial changes I make to things that I am not absolutely confident about, I will document them here, in case I was actually the one who was wrong.
+
+* Replaced "Perhaps, I... Why is this really embarrassing to wear?" with "How is it possible that I... am so embarrassed about showing my figure?". Reason: The use of the word "kakkou" here seems to mean figure. Imhikarucat was more correct in using "perhaps" though, but I couldn't find a way to work it in, so I expressed it in a more casual English way of speaking.
+
+* Replaced "Where did I buy it? Did I? I can't even swim anyway" with "Can I go shopping for another somewhere? I can't go out swimming like this." Reason: For the first part, the literal translation seems to be "Couldn't I go shopping somewhere" or something like that, and I filled in the "for another". For the second part, I believe I am more closely matching the literal translation.
