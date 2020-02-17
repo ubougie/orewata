@@ -1,24 +1,35 @@
 Release 72
 Link: https://twitter.com/hatukisu/status/1188381410660237312
 
+Contributors:
+
+Original version: Ubo
+Person who then proceeded to lose the original version: Ubo
+First draft of redo: Imhikarucat
+Final version and publishing: Ubo
+
+[ubo backstory: When I was getting in the swing of posting these files, I had assumed that the online service I was using would keep a copy of everything I posted, so I wouldn't need to keep a backup. I was wrong. That being said, this file is the only casualty, because fortunately I was able to look around and find a copy of all the other files.]
+
+
 Page 1
 
 OCR:
 
 お姉ちゃんみたくなりたかった
 
-綺麗で何でもできて…大人で…
+綺麗で何でもできて...
+大人で...
 
 理想の自分を演じてた
 
-私はそれをアキラにも押し付けてたんだ…
+私はそれをアキラにも押し付けてたんだ...
 
 
 Machine translation:
 
 Rumi: I wanted to see my sister / I wanted to be like my sister.
 
-Rumi sister: I can do anything beautiful and ... / It's beautiful and you can do anything... I'm an adult.
+Rumi: I can do anything beautiful and ... / It's beautiful and you can do anything... I'm an adult.
 
 Rumi: I was playing my ideal self 
 
@@ -29,30 +40,33 @@ Interpretation:
 
 Rumi: I wanted to be like my sister
 
-Rumi's sister: With beauty, you can do anything... as an adult...
+Rumi: Someone who is beautiful, able to do anything... an adult...
 
-Rumi: I was trying to be my ideal self
+Rumi: She was who I aspired to be.
 
-Rumi: And then I want to push that ideal me onto Akira...
+Rumi: And so I pushed that ideal onto you as well...
+
+
+---
 
 
 Page 2
 
 OCR:
 
-さっきは怒鳴ってごめん…
+さっきは怒鳴ってごめん...
 
-作日のこと怒られる思ってたから…
+昨日のこと怒られる思ってたから...
 
 ううん
 
 気にしてない
 
-… ありがと
+...ありがと
 
 瑠海のこと天使みたいな人だと思ってた
 
-… けど
+けど...
 
 そういえばお姉ちゃんが一人暮らしさみしいから遊びに来てって
 
@@ -71,17 +85,17 @@ Machine translation:
 
 Rumi: I'm sorry for yelling ... / I'm sorry I yelled at you.
 
-Rumi: I thought I was angry at the day of the work ... / I thought you'd get angry about the day you had.
+Rumi: I thought I was angry yesterday ... / I thought you'd get angry about yesterday.
 
 Akira: No
 
 Akira: I do not mind / I don't care.
 
-Rumi: … Thank you / ... Thank you.
+Rumi: ... Thank you / ... Thank you.
 
 Aside: I thought that Rumi was like an angel / I thought you were like an angel.
 
-Aside: … but 
+Aside: ... but 
 
 Rumi: Come to play because my sister lives alone / Come to think of it, my sister came to see me because she looked like she was living alone.
 
@@ -98,31 +112,34 @@ Akira: Yup / yes
 
 Interpretation:
 
-Rumi: I am sorry for yelling at you earlier...
+Rumi: I am sorry for yelling at you just now...
 
-Rumi: Yesterday, I think I was angry...
+Rumi: I thought you'd be angry about yesterday.
 
-Akira: No
+Akira: No.
 
-Akira: I don't mind that...
+Akira: Don't worry about it...
 
-Rumi: ... Thank you
+Rumi: ...Thank you.
 
-Aside: I always thought Rumi was something like an angel
+Aside: I always thought of Rumi as some kind of angel.
 
-Aside: However...
+Aside: But...
 
-Rumi: Come to think of it, we should come and play with my lonely sister since she lives alone now
+Rumi: Speaking of my sister, she said she'd come over and hang out because she's been lonely living alone.
 
 Akira: Really?
 
-Akira: I want to meet her
+Akira: I'd like to see her.
 
-Rumi: I needs to appologise Fujiki-san (Aoi)
+Rumi: I needs to apologize to Fujiki-san. [imhikarucat: the person referenced here is Aoi]
 
-SFX: fidget fidget
+SFX: *fidget* *fidget*
 
-Akira: Yes
+Akira: Yeah.
+
+
+---
 
 
 Page 3
@@ -135,7 +152,7 @@ OCR:
 
 な
 
-なに…？
+なに...？
 
 大好きだよ！
 
@@ -148,7 +165,7 @@ Akira: I have something to say! / I have something to say!
 
 Rumi: What / What's this?
 
-Rumi: What…? / What...?
+Rumi: What...? / What...?
 
 
 Interpretation:
@@ -161,27 +178,31 @@ Rumi: Wha
 
 Rumi: What is it...?
 
-Akira: I love you a lot!
+Akira: I love you!
+
+
+---
 
 
 Page 4
 
 OCR:
 
-また…イチから友だちになろう !
+また...イチから友だちになろう !
 
-…うん
+...うん
 
 
 Machine translation:
 
 Akira: Again ... become friends from Ichi! / Also... Become friends from Ichi!
 
-Rumi: …Yup / ... yes
+Rumi: ... Yup / ... yes
 
 
 Interpretation:
 
-Akira: Be my best friend again!
+Akira: Let's start over and be friends again!
 
-... Yes
+Rumi: ...Ok.
+
