@@ -1,6 +1,14 @@
 Release 90
 Link: https://twitter.com/hatukisu/status/1229711742474711040
 
+Contributors:
+
+OCR and machine translation: Ubo
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
+[Fun fact: I will start committing the different stages of the file individually in git, so if you'd like to see imhikarucat's translation before I replace it with my own, you can do so. It is entirely possible that I might, from time to time, replace a better translation with a worse one, though the ideal is that you never have to look at the history other than just for your own curiosity.]
+
 
 Page 1
 
@@ -37,17 +45,17 @@ SFX: Bag / Ba
 
 Interpretation:
 
-Akira: Uhh...
+Akira: Um...
 
 SFX: *slide*
 
-Akira: I...forgot the phone...
+Akira: I... forgot my phone...
 
-SFX: *looking intensely*
+SFX: *intense stare*
 
-Akira: that's why...
+Akira: So...
 
-SFX: *suddenly*
+SFX: *bam*
 
 
 ---
@@ -64,13 +72,13 @@ OCR:
 
 ぎゅうう
 
-ヴーヴー
+ヴーヴー
 
 ガタガタ
 
 バッ
 
-ヴー
+ヴー
 
 言うなよ!
 
@@ -98,19 +106,17 @@ Interpretation:
 
 Tsukumo: Don't tell anyone!
 
-Akira: I won't tel
+Akira: I won't t-- ELL!
 
-SFX: *clench*
+SFX: *tighten*
 
-Akira: ell (I split this because Akira said 言わなっ then い゙っ  which when combined will become 言わない) (Also, it seems like notepad render "tenten" incorrectly, it should be next to い rather than behind　っ)
-
-SFX:  *rattle rattle*
-
-SFX: *fall over*
-
-SFX: *suddenly*
+SFX: *bzz bzzz*
 
 SFX:  *rattle rattle*
+
+SFX: *release*
+
+SFX:  *bzz bzzz*
 
 Tsukumo: Don't tell!
 
@@ -124,13 +130,13 @@ OCR:
 
 ダダッ
 
-ヴーヴー
+ヴーヴー
 
 へな
 
 ぺたっ
 
-ヴーヴー
+ヴーヴー
 
 葵
 
@@ -167,21 +173,21 @@ Interpretation:
 
 SFX: *run run*
 
-SFX:  *rattle rattle*
+SFX:  *bzz bzzz*
 
 SFX: *exhausted*
 
-SFX: *slide*
+SFX: *collapse*
 
-SFX:  *rattle rattle*
+SFX:  *bzz bzzz*
 
-Caller name: Aoi
+Phone text: Aoi
 
-Status: Incoming call
+Phone text: Incoming call
 
 Akira: Hello?
 
-Aoi: Oh... Did you find your phone?
+Aoi: Oh! You found your phone?
 
 
 ---
@@ -213,43 +219,41 @@ B: ...ある
 
 Machine Translation:
 
-Aoi
+Akira: Aoi
 
-Hmm? / What's up?
+Aoi: Hmm? / What's up?
 
-Aoi ever wanted to be a boy? / Has Nagisa ever wanted to be a boy?
+Akira: Aoi ever wanted to be a boy? / Has Nagisa ever wanted to be a boy?
 
-e? / What?
+Aoi: e? / What?
 
-What did you do? suddenly / What's going on? All of a sudden.
+Aoi: What did you do? suddenly / What's going on? All of a sudden.
 
-It's there
+Aoi: It's there
 
-Is there no Akira? / You don't have Akira?
+Aoi: Is there no Akira? / You don't have Akira?
 
-...is there / ... Be
+Akira: ...is there / ... Be
 
-What about ninety-nine?
+Narration: What about ninety-nine?
 
 
 Interpretation:
 
-Akira: Aoi
+Akira: Aoi.
 
-Aoi; Huh?
+Aoi: Yeah?
 
-Akira: Have Aoi ever consider... that you wanted to be a boy?
+Akira: Aoi... have you ever... wanted to be a boy?
 
 Aoi: Eh?
 
-Aoi: What's the matter? Why suddenly
+Aoi: Is something troubling you? Why are you suddenly--
 
-Aoi: About that... I have
+Aoi: I mean yes, sure I have.
 
-Aoi: How about Akira?
+Aoi: Haven't you?
 
-Akira: ...I have
+Akira: ...I have.
 
-Narration: Tsukumo... I wonder that was about
-
-[hint: I asked a Japanese help group about part of this, so I'll relay the information back to you. The exchange goes like this: "Aoi... have you ever... wanted to be a boy?" [...] "Yeah, sure I have." "Haven't you?" "...I have."]
+Narration: What about... Tsukumo?
