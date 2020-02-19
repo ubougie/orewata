@@ -37,7 +37,17 @@ SFX: Bag / Ba
 
 Interpretation:
 
+Akira: Uhh...
 
+SFX: *slide*
+
+Akira: I...forgot the phone...
+
+SFX: *looking intensely*
+
+Akira: that's why...
+
+SFX: *suddenly*
 
 
 ---
@@ -86,7 +96,23 @@ Tsukumo: Don't say it! / Don't tell me!
 
 Interpretation:
 
+Tsukumo: Don't tell anyone!
 
+Akira: I won't tel
+
+SFX: *clench*
+
+Akira: ell (I split this because Akira said 言わなっ then い゙っ  which when combined will become 言わない) (Also, it seems like notepad render "tenten" incorrectly, it should be next to い rather than behind　っ)
+
+SFX:  *rattle rattle*
+
+SFX: *fall over*
+
+SFX: *suddenly*
+
+SFX:  *rattle rattle*
+
+Tsukumo: Don't tell!
 
 
 ---
@@ -139,7 +165,23 @@ Aoi: Oh. Did you have a smartphone? / Wow. Did you have a smartphone?
 
 Interpretation:
 
+SFX: *run run*
 
+SFX:  *rattle rattle*
+
+SFX: *exhausted*
+
+SFX: *slide*
+
+SFX:  *rattle rattle*
+
+Caller name: Aoi
+
+Status: Incoming call
+
+Akira: Hello?
+
+Aoi: Oh... Did you find your phone?
 
 
 ---
@@ -191,5 +233,23 @@ What about ninety-nine?
 
 
 Interpretation:
+
+Akira: Aoi
+
+Aoi; Huh?
+
+Akira: Have Aoi ever consider... that you wanted to be a boy?
+
+Aoi: Eh?
+
+Aoi: What's the matter? Why suddenly
+
+Aoi: About that... I have
+
+Aoi: How about Akira?
+
+Akira: ...I have
+
+Narration: Tsukumo... I wonder that was about
 
 [hint: I asked a Japanese help group about part of this, so I'll relay the information back to you. The exchange goes like this: "Aoi... have you ever... wanted to be a boy?" [...] "Yeah, sure I have." "Haven't you?" "...I have."]
