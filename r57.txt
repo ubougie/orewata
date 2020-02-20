@@ -1,6 +1,12 @@
 Release 57
 Link: https://twitter.com/hatukisu/status/1160493703233884160
 
+Contributors:
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
+
 Page 1
 
 OCR:
@@ -19,7 +25,7 @@ Akira: Hello / Ha-i
 
 Interpretation:
 
-Mom: Akira, come here for a moment
+Mom: Akira, come here for a moment.
 
 Akira: Okay~
 
@@ -49,11 +55,11 @@ Mom: Akira
 
 Interpretation:
 
-Akira: Morning
+Akira: Morning!
 
-Narration: From today, I am going to middle school
+Narration: Starting today, I'll be going to middle school.
 
-Mom: Akira
+Mom: Akira.
 
 
 ---
@@ -63,11 +69,11 @@ Page 3
 
 OCR:
 
-制服買うとき一緒に買っておいたの　（せいふく　かうとうき　いっしお　に　かって　おいたの）
+制服買うとき一緒に買っておいたの
 
-試しに着てみてよ　（ためし　に　きて　みて　よ）
+試しに着てみてよ
 
-いやいい…
+いやいい...
 
 羽織るだけでもいいから
 
@@ -113,21 +119,19 @@ SFX: Galarara / Galalala
 
 Interpretation:
 
-Mom: When we go uniform shopping, I also bought this with (rephrase: When we were go shopping for your uniform, I also bought this)
+Mom: When we went shopping for your school uniform, I also bought this.
 
-Mom: Try to wear it
+Mom: Put it on, just to try.
 
-Akira: No, that's fine...
+Akira: No, that's ok...
 
-Mom: Still, just put it on 
-(So put and wear have the same result but different meaning for time in English, the more you know!)
+Mom: Don't worry, just put it on.
 
 SFX: *push push*
 
 Akira: No
 
-Akira: I said I am good! 
-(I think the meaning of this interpret is the same as original but I interpret her response like this should makes the meaning more clear. Which is no, she don't want to try it)
+Akira: I said I am good!
 
 SFX: *slap*
 
@@ -147,7 +151,7 @@ OCR:
 
 なんであんなことで怒ったんだろう
 
-今までの積み重ねを否定されたみたいで…
+今までの積み重ねを否定されたみたいで...
 
 なんか…
 
@@ -167,10 +171,10 @@ Rumi: Good morning! / Mornin!
 
 Interpretation:
 
-Akira (thinking): I wonder why I got angry at that
+Akira (thinking): I wonder why I got angry about that.
 
-Akira (thinking): Up till now, all I do is refuse, sort of...
+Akira (thinking): It's like she won't acknowledge the build up of circumstances that have lead up to now. [ubo: fun fact: I spent 2 hours on translating this line, working with the help of a group of native Japanese speakers. This sentence was of dungeon boss calibre.]
 
-Akira (thinking): Something like that...
+Akira (thinking): Or something...
 
 Rumi: Morning!
