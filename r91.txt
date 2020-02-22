@@ -1,6 +1,13 @@
 Release 91
 Link: https://twitter.com/hatukisu/status/1230792490157932545
 
+Contributors:
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+Advanced translation assistance: Tokiko's Fanpig, by way of their friend
+
+
 Page 1
 
 OCR: 
@@ -15,9 +22,11 @@ OCR:
 
 どしたの?
 
-男が女の子の かっこうしたいと思うのって変かな?
+男が女の子のかっこうしたいと思うのって変かな?
 
-男が女の子の かっこうしたいと思うのって変かな?
+男が女の子のかっこうしたいと思うのって変かな?
+
+既読
 
 アキラちゃんはかわいいから大丈夫だよ！！
 
@@ -34,13 +43,13 @@ SFX: Toto / Tot
 
 Title: Okabe
 
-Okabe's reply: what happened? / What's going on?
+Okabe's message: what happened? / What's going on?
 
-Akira's reply: Is it strange that a man wants to cool a girl? / Is it strange that a man wants to be a girl?
+Akira's message (x 2): Is it strange that a man wants to cool a girl? / Is it strange that a man wants to be a girl?
 
-Akira's reply: Is it strange that a man wants to cool a girl? / Is it strange that a man wants to be a girl?
+Text above timestamp: Already read / Read as
 
-Okabe's reply: Akira is okay because she's cute! / Akira-chan is cute, so it's okay!!
+Okabe's message: Akira is okay because she's cute! / Akira-chan is cute, so it's okay!!
 
 SFX: Pilon / Piron
 
@@ -49,21 +58,21 @@ Interpretation:
 
 SFX: *bounce*
 
-Akira: Haa
+Akira: Oof.
 
 SFX: *tap tap*
 
 Title: Okabe
 
-Okabe's reply: What's the matter?
+Okabe's message: What's wrong?
 
-Akira's reply: Is it strange for a man to think that he wants to be a girl?
+Akira's message (x 2): Is it weird for a guy to think that he wants to be a girl?
 
-Akira's reply: Is it strange for a man to think that he wants to be a girl?
+Text above timestamp: Read [ubo: as in, "message read"]
 
-Okabe's reply: Because Akira chan is cute so don't worry!!
+Okabe's message: Akira-chan is cute, so it's alright!!
 
-SFX: *pop* (Imagine the pop sound when sending in imessage)
+SFX: *incoming message sound* [ubo: literal sound is "piron", though in English that r might sound like a "d" like "peedon". This to my ear might be translated to something like bing-bong in English.]
 
 
 ---
@@ -83,7 +92,7 @@ OCR:
 
 もしかして
 
-オレが…
+オレが...
 
 女はいいよな
 
@@ -102,24 +111,26 @@ Akira (thinking): Maybe / If
 
 Akira (thinking): I ... / I'm...
 
-Tsukubo (flashback): Woman is good
+Tsukumo (flashback): Woman is good
 
 
 Interpretation:
 
-Akira: Because cute...
+Akira: "Because I'm cute"...
 
-Akira (thinking): I was (Akira is using ore here)
+Akira (thinking): I was [I = "ore"]
 
-Akira (thinking): recongnized by many people, however
+Akira (thinking): accepted by many people, however...
 
-Akira (thinking): Then
+Akira (thinking): So [ubo: I think this says "she said that", or more explicitly, Okabe said "Because Akira is cute", on the previous page]
 
 Akira (thinking): Perhaps
 
-Akira (thinking): I am... (Akira is using ore here)
+Akira (thinking): I...
 
-Tsukubo flashback: It must be nice to be a girl
+Tsukumo (flashback): It must be nice to be a girl [imhikarucat: this may perhaps be interpreted as "make for a good girl"]
+
+[ubo: This page is highly speculative. I could explain to you all the things that make this page complex, and that might help you understand the structure of how everything flows on the page and maybe improve your understanding of what is going on a bit, but I won't bother because it is a real rabbit hole. Instead, with Tokiko's Fanpig's help, we have dispatched their Japanese friend to give us a better translation for this page, so feel free to come back to this file later and see if it has been updated with all the kinks worked out.]
 
 
 ---
@@ -141,7 +152,7 @@ OCR:
 
 もーちゃんと見て!色付きのリップ塗ったの！！
 
-アキラもつけるけ?
+アキラもつける?
 
 女子なんだから身だしなみには気を付けないとね
 
@@ -187,19 +198,19 @@ Rumi: Do I look different today?
 
 Akira (thinking): So close!
 
-Akira: Uhm... I don't know? (She just cannot see the obvious thing Rumi just shown to her, just like boys)
+Akira: Um... I don't know?
 
-Rumi: Geez, look at it properly! I am wearing colored lipstick
+Rumi: Geez, seriously, look at it! I am wearing coloured lipstick.
 
-Shion: Akira want to put on too?
+Shion: Akira, want to apply some too?
 
-Shion: As a woman, you have to take care for your appearance
+Shion: As a woman, you have to take care for your appearance, don't you.
 
-SFX: *smirk*
+SFX: *grin*
 
-Erika: Shion, can you lend it to me too
+Erika: Shion, lend it to me.
 
-Shion: Oh~ That's fine
+Shion: Oh, Ok!
 
 
 ---
@@ -215,9 +226,7 @@ OCR:
 
 うん
 
-私
-
-文化祭で勝負決めることにしたから！
+私文化祭で勝負決めることにしたから！
 
 できることは何でもやる!
 
@@ -247,18 +256,18 @@ Akira (thinking): Confess!
 
 Interpretation:
 
-Erika: Thanks
+Erika: Thanks.
 
-Akira: Erika...? Did you have new hairstyle?
+Akira: Erika...? Did you get a haircut?
 
-Erika: Yup
+Erika: Yup.
 
 Erika: I
 
-Erika: Success or failure will be decided in this cultural festival!
+Erika: have decided to take a bold action at this school festival!
 
-Erika: So I will do whatever I can!
+Erika: So I will do whatever it takes!
 
 Akira: Is that so!
 
-Akira (thinking): It's a confession! (Even then, she is excited for her friend confession. Also, the bubble blocked Rumi facial expression should be intentional, forcing reader to follow for the next release/page)
+Akira (thinking): She's going to confess!
