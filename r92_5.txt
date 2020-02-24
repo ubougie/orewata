@@ -1,5 +1,11 @@
-Cat ears extra
+Release 92.5 (side release)
 Link: https://twitter.com/hatukisu/status/1231168603661074433
+
+Contributors:
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
@@ -41,15 +47,15 @@ Interpretation:
 
 Rumi: Akira!
 
-Rumi: Did you know today is cat day!
+Rumi: It's Cat Day today!
 
-Akira: So cat ears...?
+Akira: So that's why you're holding cat ears...?
 
 Rumi: Yup! That's right!
 
-Rumi: I am putting it on so keep your eyes closed!
+Rumi: I am putting them on so close your eyes!
 
-Akira: Um
+Akira: Ok.
 
 Akira: ...
 
@@ -77,19 +83,19 @@ OCR:
 
 「私につけないんだ」って思っただしょー
 
+ちっ
+ちが...！
+
 フフッアキラは猫じゃなくて犬だよ
 
-ちっちが...！
-
-よし
-
-よし
+よしよし
 
 ...ぐつ
 
-…クゥ～ン
+...クゥ～ン
 
-Machine translation
+
+Machine translation:
 
 Akira: ...?
 
@@ -107,11 +113,11 @@ Rumi: Oh! / Oh, my God! Now
 
 Rumi: I think "I can't attach to me" / I thought, "You can't put it on me."
 
-Rumi: Huff Akira is a dog, not a cat / Huh, Akira is not a cat, she's a dog.
-
 Akira: That is ...! / Chichi...!
 
-Rumi: All right
+Rumi aside: Huff Akira is a dog, not a cat / Huh, Akira is not a cat, she's a dog.
+
+Rumi (SFX): All right
 
 Akira: ... shoes / ... Gutsu
 
@@ -122,27 +128,37 @@ Interpretation:
 
 Akira: ...?
 
-Akira: Not yet..?
+Akira: Can I open them yet..?
 
-Rumi: So? (How does it look?)
+Rumi: Well?
 
-Rumi: Does it look good (on me)?
+Rumi: How do I look?
 
-Akira (thinking): It was not me (Akira using ore here)
+Akira (thinking): She didn't put them on me.
 
-Akira: Um, it's cute! 
+Akira: Yup, it's cute! 
 
-Rumi: Ah! Just now
+Rumi: Ah! Just now.
 
-Rumi: 「Why don't you put it on me」 thought right~
-
-Rumi: Fu fu~ Akira is not a cat but a dog right
+Rumi: You were thinking "you didn't put them on me" right?
 
 Akira: Tha That's not...!
 
-Rumi: Alright alright
+Rumi aside: Hehe, but Akira is not a cat, she's a dog!
+
+Rumi (SFX): It's ok, it's ok.
 
 Akira: ...sniff
 
-Akira:  ...sniff~ (https://www.youtube.com/watch?v=iJFU_Cbgzfg - don't ask me how researching for sfx kyun kyun can lead me to this song :D)
+Akira:  ...sniff~ [imhikarucat: https://www.youtube.com/watch?v=iJFU_Cbgzfg - don't ask me how researching for sfx kyun kyun can lead me to this song :D] [ubo: I can't find a proper translation for this sound (sniff is one of the few potential ones; growl was another), but given the font change, I would say that it is definitely some kind of pleasure or pleased dog sound, and that Akira resists but can't help but fall into the role by the end.]
 
+
+Notes:
+
+Chronologically, this takes place 4-5 months after where the story currently is. I would judge the story to be around October, but this side release takes place on February 22, ie. "Cat Day" in Japan, because of word play between the sound of 2 "ni" in 2/22, and the sound a cat makes, "nyan".
+
+I would love for someone to remind me where the original version of the image in the thought bubble of page 1 is from. If I had to guess, it would be somewhere near Halloween on Hatsuki's twitter (either 2019 or 2018).
+
+There is art of Akira wearing the coat from the bottom right of the first page here: https://twitter.com/hatukisu/status/1231495877488869376
+
+There is art of Akira as a dog, which complements this release nicely, here: https://twitter.com/hatukisu/status/1226780259099402240
