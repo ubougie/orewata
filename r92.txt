@@ -1,6 +1,14 @@
 Release 92
 Link: https://twitter.com/hatukisu/status/1231508550851055617
 
+Contributors:
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
+Note from ubo: imhikarucat likes to point out when Akira uses "ore" instead of "watashi". I will stop including those. From this point forward, unless I say otherwise, Akira always uses "watashi" when speaking but always uses "ore" when thinking.
+
+
 Page 1
 
 OCR: 
@@ -53,23 +61,23 @@ Interpretation:
 
 Shouma: Fujimiya!
 
-Shouma: Good morning
+Shouma: Good morning.
 
-Erika: Hi Shouma (Erika greets Shouma really gyaru/trendy sound like here)
+Erika: Hi Shouma [imhikarucat: Erika greets Shouma really gyaru/trendy sound like here] [ubo: The expression "ossu" is short for "Ohayou gozaimaSU", and I would speculate is very similar to our own use of "sup". Somewhat masculine, but girls could say it too.]
 
-Shouma: Eh? Aah Erika? I didn't recognize you
+Shouma: Eh? Aah Erika? I didn't recognize you.
 
-Erika: You are terrible
+Erika: How cruel!
 
-Akira (thought): I never saw someone going out beside Ishii-san 
+Akira (thought): Ishii-san is the only one I've ever seen dating anyone.
 
-Akira (thought): Surely it is happy I think... Erika will become like that too...
+Akira (thought): She sure seems happy... I'm sure the same will hold true for Erika...
 
-Tsukumo: ...Uhm
+Tsukumo: ...Um
 
-Akira: Wah
+Akira: Wah!
 
-SFX: *grab* (I think the sfx should be pull, almost the slap sfx since I see Akira pulling her hand away from Tsukumo)
+SFX: *slap*
 
 
 ---
@@ -127,23 +135,23 @@ Interpretation:
 
 Akira: Wha... What!?
 
-Tsukumo: Ah...
+Tsukumo: Oh...
 
-Tsukumo: Yesterday... I am sorry
+Tsukumo: About yesterday... I am sorry.
 
 Akira: Eh?
 
-Akira; A... yes
+Akira: Uh... ok.
 
-Shion: Is there something happened with Tsukumo-kun?
+Shion: Did something happen with Tsukumo-kun?
 
-Akira: Ah no
+Akira: Ah- no.
 
-Akira: Not... Nothing at all...
+Akira: Uh- Nothing at all...
 
-Shion: Phew
+Shion: Hmm.
 
-Akira (thinking): I want to ask
+Akira (thinking): I want to ask him.
 
 
 ---
@@ -204,6 +212,8 @@ Board:
 
 Box: Girl / Women 's
 
+Natsumi: Lottery draw / The role decision is a lottery.
+
 Natsumi: Boys will be hard to run for / It's going to be hard for boys to run.
 
 SFX: Gee ~ / Ghe
@@ -215,13 +225,13 @@ Akira (thinking): Does he want to be a girl?
 
 Akira (thinking): Why? Since when?
 
-Akira (thinking): Does anyone else also know that?
+Akira (thinking): Does anyone else know?
 
-Akira (thinking): Maybe the same disease as me? (Akira using ore here)
+Akira (thinking): Maybe he has the same disease as me?
 
-Akira (thinking): However... I can't say anything about that...
+Akira (thinking): However... how do I start such a conversation?
 
-Erika: Then, the Cinderella play was chosen!
+Erika: Well, it looks like Cinderella was chosen as the play!
 
 Board: 
 Cinderella
@@ -233,11 +243,11 @@ Sister B
 
 Box: Girls
 
-Natsumi: Role will be decided by lottery draw
+Natsumi: Roles will be assigned by a lottery.
 
-Natsumi: I think boys will have hard time because of this (sound like an evil plan from an evil mastermind)
+Natsumi: Given that it seems boys are having a hard time volunteering.
 
-SFX: *wheeze*
+SFX: *wheeze* [ubo: I don't understand why this sound effect is used. In my own mind I replace this with some kind of offended reaction from the boys in the class.]
 
 ---
 
@@ -251,16 +261,17 @@ OCR:
 アキラは何の役？
 
 シンデレラ
-
 九十九
 
-王子藤宮
+王子 藤宮
 
-魔女水見
+魔女 水見
 
-ママ母菊池
+ママ母 菊池
 
-姉A中曽根
+姉A 中曽根
+
+姉B 佐原
 
 
 Machine translation:
@@ -275,17 +286,28 @@ Board:
 - Witch Minami
 - Mom mother Kikuchi / Mama Mother Kikuchi
 - Sister A Nakasone
+- Sister B Sahara / Sister B Sawara
 
 
 Interpretation:
 
-Natsumi: Don't complain no matter what role you got
+Natsumi: Don't complain no matter what role you get.
 
-Natsumi: What role Akira got?
+Natsumi: What role did you get Akira?
 
 Board:
 - Cinderella: Tsukumo
-- Prince: Fujimiya
+- Prince: Fujimiya [ubo: For those who don't remember her last name, this is Akira]
 - Witch: Minami
 - Mama (mother): Kikuchi
 - Sister A: Nakasone
+- Sister B: Sahara [ubo: The name is mostly clipped, but I'm just that good.]
+
+[ubo: see file r92.png in this same directory to see headshots of each of these six people. The faces are in the same order as this list above, assuming you read the image from left to right, as in: 1, 2; 3, 4; 5, 6.]
+
+[ubo: I rattled my brain to make this whole lottery thing make sense, and this is what I have come up with:
+1) There are two boxes even though we only ever see one: one is for boys and one is for girls.
+2) The roles listed on the board is longer than we see. The list on page 3 are still being written and on page 4 are cropped on the left.
+3) Roles were already distributed across the two boxes so that there would be as many boy roles as boys and as many girl roles as girls.
+4) I would guess many of these roles are probably crew roles, because there are a lot more students than there are acting roles (except maybe during the ball, from what I know of the story).
+There is maybe another way to make this release make sense, but as long as there is one way to explain it, as I have, it doesn't have to be considered an oversight on the part of the artist. Hope this helps.]
