@@ -1,15 +1,18 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 93
 Link: https://twitter.com/hatukisu/status/1234789182062485504
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
 OCR:
 
-王子様かわいい！
+王子様
+かわいい!
 
-一樹
+一樹!
 
 主役が衣装合わせしないでどうすんのよ!
 
@@ -31,11 +34,11 @@ Interpretation:
 
 Rumi: Cute prince!
 
-Natsumi: Kazuki! (This is Tsukumo given name, there isn't an official furigana for Tsukumo given name yet so this one is just my speculation)
+Natsumi: Kazuki! [imhikarucat: This is Tsukumo given name, there isn't an official furigana for Tsukumo given name yet so this one is just my speculation]
 
-Natsumi: Leading actor should wear costume, you know!
+Natsumi: How is the lead actor not doing his costume fitting!
 
-Tsukumo: After I went to the toilet
+Tsukumo: I'll do it after going to the toilet.
 
 
 Page 2
@@ -44,34 +47,35 @@ OCR:
 
 九十九くん!
 
-あの…
+あの...
 
-本当に便所なんだ終わったらちゃんと参加するよ
+本当に便所なんだ
+終わったらちゃんと参加するよ
 
-あっ…
+あっ...
 
 うん
 
-…
+...
 
 もじもじ
 
 うおっ!
 
-びくっ
+ジャーッ
 
-ジャーツ
+びくっ
 
 
 Machine translation:
 
 Akira: Kuju-kun! / Kujuku-kun!
 
-Akira: that… / Excuse me...
+Akira: that... / Excuse me...
 
 Tsukumo: I'm really going to the toilet when I'm done / It's really a toilet, and I'll join you when I'm done.
 
-Akira: Ah… / Oh, my God.
+Akira: Ah... / Oh, my God.
 
 Akira: Yup / yes
 
@@ -81,9 +85,9 @@ SFX: Mojimoji / Squirmy
 
 Tsukumo: Wow! / Oh, my God!
 
-SFX: Surprised / Biku
-
 SFX: Jersey / Jats
+
+SFX: Surprised / Biku
 
 
 Interpretation:
@@ -92,7 +96,7 @@ Akira: Tsukumo-kun!
 
 Akira: Um...
 
-Tsukumo: I am really going to the toilet. I will comeback when I am done
+Tsukumo: I'm really going to the toilet. I'll come back when I'm done.
 
 Akira: Ah...
 
@@ -102,11 +106,11 @@ Akira: ...
 
 SFX: *fidget fidget*
 
-Tsukumo: Wah!
+Tsukumo: Woah!
+
+SFX: *flush*
 
 SFX: *surprise*
-
-SFX: *step*
 
 
 Page 3
@@ -119,21 +123,24 @@ OCR:
 
 えっと！
 
-こないだの…その
-
-…
+こないだの
+...その
 
 キョロキョロ
 
-6月の保険の授業あったろ?妊娠のやつ
+...
 
-え？うん
+6月の保険の授業あったろ?
+妊娠のやつ
+
+え?
+うん
 
 あの時思ったんだ
 
 もし俺が女だったらどんな感じだろうって
 
-それでチャンスと思って…よ
+それでチャンスだと思って...よ
 
 気持ち悪いよな
 
@@ -148,9 +155,9 @@ Akira: Um! / Let's see!
 
 Akira: I'm not here ... / The other day... That
 
-Tsukumo: ...
-
 SFX: Kyoro kyoro
+
+Tsukumo: ...
 
 Tsukumo: May I have an insurance class in June? / Did you have an insurance class in June?
 
@@ -173,23 +180,23 @@ Akira: Ah...
 
 Akira: Um!
 
-Akira: About the other day... you
+Akira: About the other day... that thing...
+
+SFX: *look around*
 
 Tsukumo: ...
 
-SFX: *look around* 
+Tsukumo: Do you remember health class in June? With the pregnancy suits? [ubo: Hatsuki said this release had a typo, and imhikarucat found it here: 保健 for health rather than 保険 for insurance. They both are pronounced "hoken".]
 
-Tsukumo: Did you have a health education in June? The pregnant guys one (I am suspect the "typo" Hatsuki was talking about here. 保健の授業 for health education rather than 保険の授業)
+Akira: Eh? Yes.
 
-Akira: Eh? Yes
+Tsukumo: Around that time, I thought something.
 
-Tsukumo: Around that time
+Tsukumo: What would it be like if I were a girl?
 
-Tsukumo: I thought that what would it be like if I were a girl
+Tsukumo: And so I thought I had an opportunity...
 
-Tsukumo: And that was the chance I can to have to think... about
-
-Tsukumo: I felt disgusting about it
+Tsukumo: Disgusting, isn't it.
 
 
 Page 4
@@ -200,9 +207,9 @@ OCR:
 
 また津田に怒られちまう
 
-あの…！
+あの...！
 
-気持ち悪くなんて…ないよ…!
+気持ち悪くなんて...ないよ...!
 
 
 Machine translation:
@@ -211,17 +218,17 @@ Tsukumo: Let's go back soon / Let's get back.
 
 Tsukumo: I will be angry again by Tsuda / I'm going to get angry with Tsuda again.
 
-Akira: that…! / Excuse me...!
+Akira: that...! / Excuse me...!
 
 Akira: I don't feel sick ... no ...! / I don't think it's disgusting. No...!
 
 
-Interpretation: 
+Interpretation:
 
-Tsukumo: Hurry up, let's get back
+Tsukumo: Let's hurry back.
 
-Tsukumo: Or Tsuda (family name of Natsumi) will get mad at me again
+Tsukumo: Otherwise Tsuda will get mad at me again. [imhikarucat: Tsuda is the family name of Natsumi][ubo: that's the angry girl from the first page of this release]
 
 Akira: Um...!
 
-Akira: I don't think it's disgusting... at all...! (Akira is such amazing at reading people feeling)
+Akira: I don't think it's disgusting... at all...!
