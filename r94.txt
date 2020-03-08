@@ -1,17 +1,19 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 94
 Link: https://twitter.com/hatukisu/status/1236228710459510784
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
 OCR:
 
-藤みっ…!
-
-なに？
+藤みっ...!
 
 ヒソヒソ
+
+なに？
 
 告白?
 
@@ -27,16 +29,16 @@ OCR:
 
 ありがとな藤宮おかげで小し気が楽になったよ
 
-ああ…うん
+ああ...うん
 
 
 Machine translation:
 
 Tsukumo: Wisteria ...! / Mi Fuji ...!
 
-Ribbon girl: What?
-
 SFX: Hisohiso / Hissohisso
+
+Ribbon girl: What?
 
 Ribbon girl: Confession? / Confess?
 
@@ -59,25 +61,28 @@ Interpretation:
 
 Tsukumo: Fujimi...!
 
-Ribbon girl: What?
-
 SFX: *whisper*
+
+Ribbon girl: What?
 
 Ribbon girl: A confession?
 
-Other girl: It is bad to disturb them
+Other girl: We can't interfere.
 
-Tsukumo: Let's go
+Tsukumo: Let's go.
 
-Ribbon girl: Because I am worried (No, you are not)
+Other girl: Because love is blooming!
 
-Tsukumo: Move
+Tsukumo: Get out of here.
 
 SFX: *slam*
 
-Tsukumo: Thank you Fujimiya, I feel a little bit better now
+Tsukumo: Thank you Fujimiya, I feel a little bit better now.
 
-Akira: Ah... Um.
+Akira: Ah... Sure thing.
+
+
+[ubo: It is premature to know the names of the two "new" girls on this page, since we don't have furigana, but we do know from previously related material the kanji for their names. Ribbon girl's name in kanji is 野木心愛 and the other girl's name in kanji is 村田朝陽. The first name in each case have a lot of variations, and I won't list them all out. But for the last names: ribbon girl's name (野木) is probably Nogi-san, and the other girl's name (村田) is almost certainly Murata-san.]
 
 
 ---
@@ -103,7 +108,7 @@ OCR:
 
 津
 
-それは…たまたま
+それは...たまたま
 
 ア
 
@@ -149,7 +154,7 @@ Interpretation:
 
 Natsumi: So Akira
 
-Natsumi: Do you like Kazuki?
+Natsumi: Do you like Kazuki? [ubo: Kazuki is Tsukumo's first name.]
 
 Akira: Wha!?
 
@@ -157,23 +162,19 @@ Akira: What makes you think like that!?
 
 Natsumi: Eh
 
-Natsumi: That's not true?
+Natsumi: Am I wrong?
 
-Natsumi: Because Akira rarely talks to boys but with Kazuki?
+Natsumi: Because Akira, you hardly ever talk to boys, and yet aren't you getting close with Kazuki?
 
-Circle inside Natsumi bubble: Tsu (The first character of Natsumi's family name)
-
-Akira: Because... it just happened
-
-Circle inside Akira bubble: A (A in Katakana for Akira)
+Akira: That... just sort of happened.
 
 Shion: Tsuda-chan!
 
-Shion: Akira is not the type of falling to a handsome guy~
+Shion: You're wrong, because Akira only likes handsome guys~
 
-Natsumi: Whyyyy?
+Natsumi: What!
 
-Akira: A... um
+Akira: Uh... yeah.
 
 
 ---
@@ -194,6 +195,8 @@ OCR:
 アキラ
 
 九十九くんのこと好きなの?
+
+!?
 
 だから何でそうなるの!?
 
@@ -218,6 +221,8 @@ Rumi: Akira
 
 Rumi: Do you like Kujuku-kun? / Do you like Kujuku-kun?
 
+Akira: !?
+
 Akira: So why is that ?! / So why does that happen!?
 
 Rumi: No, I'm worried / No, it bothers me.
@@ -229,23 +234,24 @@ Akira: No!
 
 Interpretation:
 
-Akira (thinking): Surely I am not good with boys so I didn't involve much, however
+Akira (thinking): I know I'm not good at getting close to boys, but
 
-Akira (thinking): Just by talking a little bit then assume that I like...
+Akira (thinking): Only by talking a little bit that means I like him or something?
 
-Akira (thinking): Is that what men and women are like?
+Akira (thinking): Is that just the way it is between guys and girls?
 
-Akira (thinking): How troublesome
+Akira (thinking): How troublesome.
 
 Rumi: Akira
 
 Rumi: Do you like Tsukumo-kun?
 
-Akira: Why everyone think like that?
+Akira: !?
 
-Rumi: Oh, I am just worried about you (Yeah right)
+Akira: Why do you say that!?
 
-Rumi: Then it is actually not true?
+Rumi: Oh, I am just curious.
+
+Rumi: So, is that a no?
 
 Akira: NO!
-
