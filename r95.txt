@@ -1,7 +1,9 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 95
 Link: https://twitter.com/hatukisu/status/1237328043586117633
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
@@ -19,7 +21,7 @@ OCR:
 
 迷惑だって九十九くんを怒らせるかもしれない
 
-今の私じゃ…
+今の私じゃ...
 
 アキラ
 
@@ -45,19 +47,19 @@ Rumi: Akira
 
 Interpretation:
 
-Akira: Tsukumo-kun told me that he doesn't suit Cinderella role
+Akira: Tsukumo-kun says that the role of Cinderella is not suitable to him.
 
-Akira: Things like that resembling my former self...
+Akira: It reminds me of how I used to be...
 
-Akira: I think I want to help 
+Akira: I wanted to be helpful, but
 
-Akira: However, everyone seems to suspicious about our relationship
+Akira: everyone seems to suspicious about our relationship
 
 Natsumi: Do you like him?
 
-Akira: Because (me being) annoyance might make Tsukumo-kun angry
+Akira: and to make it worse, Tsukumo might get angry.
 
-Akira: For now, I think I will...
+Akira: For now, I won't...
 
 Rumi: Akira
 
@@ -77,19 +79,19 @@ OCR:
 
 アキラは仲良くなってるんだもん
 
-ヤバイ時はコレ
+SOS! ヤバイ時はコレ
 
 私にはできないもんすごいよ
 
-いや…本当たまたま
+いや...本当たまたま
 
 まだ何もできてないし
 
 また失敗するかもしれないし
 
-このままおとなしく…
+このままおとなしく...
 
-でも助けになりたいんでしょ?
+でも助けになりたいんでしよ?
 
 
 Machine translation:
@@ -101,6 +103,8 @@ Akira: Huh? / What?
 Rumi: I always thought that I was just a scary person / I've always thought that Ninety-nine-kun was just a scary person.
 
 Rumi: Akira is getting along well / Akira's getting along.
+
+Sign: SOS! This is a bad time / Sos! This is the time when I'm not good ejat.
 
 Rumi: What i can't do / It's amazing what I can't do
 
@@ -117,27 +121,29 @@ Rumi: But do you want to help? / But you want to help, don't you?
 
 Interpretation:
 
-Rumi: Is amazing~ (Is amazing, don't you think)
+Rumi: You're amazing, aren't you.
 
 Akira: Eh?
 
-Rumi: I always thought Tsukumo-kun is a scary person 
+Rumi: I always thought that Tsukumo-kun was a scary person
 
-Rumi: Meanwhile Akira is getting along well with him (Note: Rumi tend to talk with もん as final partical in a sentence. It sounds cute)
+Rumi: but Akira can get along with him!
 
-Sign: In moment of danger, press this (Litteral: In time of danger, here)
+Sign: SOS! In times of danger, press this.
 
-Rumi: I can't do that so it's really amazing (Rumi add もん in the end of a sentence here again)
+Rumi: I definitely couldn't do it, so that's amazing!
 
-Akira: No... Actually that just happened
+Akira: No... it really just sort of happened. [ubo: same phrasing as was used on page 2 of the previous release with Natsumi]
 
-Akira: I haven't done anything yet
+Akira: I haven't done anything yet.
 
-Akira: Obviously I will fail again
+Akira: I may fail again
 
-Akira: Staying quiet like this
+Akira: staying quiet like this...
 
-Rumi: Nevertheless, you still want to help isn't it?
+Rumi: But you want to help, right?
+
+[imhikarucat: A few times on this page, Rumi uses もん as the final particle in a sentence. It sounds cute.] [ubo: もん is a bit young and girlish sounding, and is like an emphatic "but" or "because", depending on context. Also, Akira has been using し, which in how it is used here is fairly informal and has maybe a rambling flavour to it.]
 
 
 ---
@@ -161,9 +167,9 @@ Rumi: Let's try / Let's do it.
 
 Interpretation:
 
-SFX: *slow movement*
+SFX: *reach out*
 
-Rumi: Let's try it (Let's do it) (I prefer try in this case since Rumi personality doesn't active as for example Aoi. And the SFX support that too)
+Rumi: Let's try.
 
 
 ---
@@ -175,9 +181,9 @@ OCR:
 
 私も手伝うから
 
-瑠海はいつも…
+瑠海はいつも...
 
-オレにもできるかな…?
+オレにもできるかな...?
 
 ありがとう
 
@@ -195,10 +201,10 @@ Akira: Thank you
 
 Interpretation:
 
-Rumi: I, too, will help you (Does this sound weird? Do people actually use this?)
+Rumi: I'll help too.
 
-Akira (thinking): As always, Rumi is...
+Akira (thinking): Rumi is always...
 
-Narration: Wonder if I can do it...? (Akira using ore here)
+Narration: I wonder, can I also...?
 
-Akira: Thank you
+Akira: Thank you.
