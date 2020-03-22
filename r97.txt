@@ -1,7 +1,9 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 97
 Link: https://twitter.com/hatukisu/status/1241654954713989120
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
@@ -51,7 +53,7 @@ Akira: Ah"!! / Oh"!!
 
 Interpretation:
 
-Akira (thinking): The eyebrowns are too thick!
+Akira (thinking): I made the eyebrows too thick!
 
 Akira: Rumi!
 
@@ -63,9 +65,9 @@ Rumi: Akira!!
 
 Akira: I am fine with it!!
 
-Rumi: But it is 17pm already
+Rumi: It's already 17:00!
 
-Narration: The curfew time is 16:30pm
+Narration: The curfew time is 16:30.
 
 Akira: Ah!!
 
@@ -119,7 +121,7 @@ Akira: No no!
 
 Interpretation: 
 
-Rumi: Next time I will do it on you
+Rumi: I will do it on you next time!
 
 Akira: Uhh...
 
@@ -129,13 +131,13 @@ Akira: Dang it!
 
 Akira: ......
 
-SFX: *rumbllllle*
+SFX: *twist twist*
 
-Akira (thinking): I bought it. didn't I
+Akira (thinking): I was the one who bought it, so...
 
 SFX: *ba-dump ba-dump*
 
-Akira: No no!
+Akira: No, I can't!
 
 
 ---
@@ -160,7 +162,7 @@ OCR:
 
 ひどいー
 
-シンデレラは舞踏会に連れて行ってもらぇませんでした
+シンデレラは舞踏会に連れて行ってもらえませんでした
 
 悲しみに暮れる
 彼女のもとに魔女が...
@@ -207,7 +209,7 @@ Narration: Live in sadness A witch is under her ... / They are in grief There's 
 
 SFX: Keen corn
 
-Natsumi: Good work Return to my desk / Good night. Put it back on the desk.
+Teacher: Good work Return to my desk / Good night. Put it back on the desk.
 
 Minami: Ninety-nine! good job! / Ninety-nine! Oh, my God!
 
@@ -224,11 +226,11 @@ Shouma and Mimami: e~ / Oh, my Good.
 
 Interpretation:
 
-Tsukumo: I
+Tsukumo: I--
 
-Tsukumo: I still have a chance going to a ball
+Tsukumo: I also want to go to the ball. [ubo: Tsukumo is using "watashi", the girl form of "I".]
 
-Nakasone: Cinderella doesn't have a dress so you should stay at home
+Nakasone: But you don't have a dress, Cinderella, so it's best that you just stay at home.
 
 SFX: *heh heh*
 
@@ -236,30 +238,33 @@ SFX: *sob sob*
 
 Tsukumo: Uuu~
 
-Tsukumo: Terrible~
+Tsukumo: Not fair~
 
 Narration: Cinderella was not taken to ball
 
 Narration: Sunk in sadness, a fairy come to her...
 
-SFX: *ding dong*
+As she fell into despair, a witch came to her. [ubo: I am staying true to the text, which says "witch" and not "fairy". We'll see how it plays out.]
 
-Natsumi: Good work everyone~ Please put all the desk back
+SFX: *school bell*
 
-Minami: Tsukumo! Good works!
+Teacher: Good work everyone! Please put the desks back where they belong.
+
+Kikuchi: Tsukumo! Well done!
 
 Tsukumo: Huh
 
 Erika: Shouma!
 
-Erika: And Tsukumo kun
+Erika: Also, Tsukumo-kun and gang.
 
-Erika: Do you want to have a makeup when taking the play?
+Erika: Do you want to wear makeup when putting on the actual play?
 
-Shouma and Mimami: Eh~
+Shouma and Kikuchi: Eh~
 
 
 ---
+
 
 Page 4
 
@@ -272,11 +277,11 @@ OCR:
 だめ...
 かな?
 
-じゃあ…
-
-さっ
+じゃあ...
 
 藤宮に頼んでいいか?
+
+さっ
 
 俺も!
 
@@ -312,11 +317,11 @@ Akira: Thank you!
 
 Interpretation:
 
-Rumi: We practiced seriously so it won't look weird!
+Rumi: We practiced diligently so it won't look weird!
 
-Akira: We are still practicing, so...
+Akira: Actually we're still practicing, so...
 
-Akira: will it... good enough?
+Akira: it won't be good enough... maybe?
 
 Tsukumo: Well then...
 
@@ -324,7 +329,7 @@ Tsukumo: Fujimiya, can you do it for me?
 
 SFX: *step*
 
-Shouma: Me too! (Shouma is using ore here)
+Shouma: Me too! [imhikarucat: Shouma is using ore here]
 
 Shouma: I am fine with you doing it!
 
