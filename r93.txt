@@ -1,11 +1,20 @@
+[Progress of this document: Twitter version is final, comic-walker version is in progress]
+
 Release 93
-Link: https://twitter.com/hatukisu/status/1234789182062485504
+Link [Tw1-Tw4]: https://twitter.com/hatukisu/status/1234789182062485504
+Link [CW1-CW6 <- first 6 pages only]: https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_MF00000120010038_68
+(Note: comic-walker link may expire in the future, as has happened with previous chapters)
 
 First draft: Imhikarucat
 Final version and publishing: Ubo
 
+Important note: I recommend following along both the twitter and comic-walker versions to get the most out of this document, which translates both.
 
-Page 1
+
+---
+
+
+Page Tw1
 
 OCR:
 
@@ -32,16 +41,308 @@ Tsukumo: After going to the toilet / After i went to the toilet
 
 Interpretation: 
 
-Rumi: Cute prince!
+Rumi: The prince is cute!
 
-Natsumi: Kazuki! [imhikarucat: This is Tsukumo given name, there isn't an official furigana for Tsukumo given name yet so this one is just my speculation]
+Natsumi: Kazuki! [imhikarucat: This is Tsukumo given name]
 
 Natsumi: How is the lead actor not doing his costume fitting!
 
 Tsukumo: I'll do it after going to the toilet.
 
 
-Page 2
+---
+
+
+Page CW1
+
+OCR:
+
+中曽根くん似合う!
+
+シンデレラよりかわいいんじゃない?
+
+昔々
+
+女の子にしか見えない
+
+中曽根くんいいよねー
+
+んあーけど彼女いるって
+
+アキラはどう?
+
+え?どうだろう別に…
+
+えー?なに?
+
+もっとイケメンじゃないと嫌なの?
+
+や…
+
+うん
+
+いいやそれで
+
+シンデレラという女の子がいました
+
+彼女はいじわるな継母に毎日仕事を押し付けられ...
+
+九十九くん衣装合わせ...
+
+オレが私になるまで
+
+佐藤はうき
+
+
+Machine translation:
+
+Classmate 1: Fits Nakasone-kun! / Nakasone-kun looks good on you.
+
+Classmate 2: Isn't it cuteer than Cinderella? / Isn't it prettier than Cinderella?
+
+Narration: Once upon a time
+
+Classmate 3: Can only be seen by girls / It looks like a girl.
+
+Shion: Nakasone is good / Nakasone-kun is good, isn't he?
+
+Aoi: Oh, but she's there / Um, but she's here.
+
+Shion: What about Akira? / How's Akira?
+
+Akira: What? / I don't know.
+
+Shion: What? / What is it?
+
+Shion: Do you hate it if you are not more handsome? / You don't like it if you're not more handsome?
+
+Akira: And...
+
+Akira: Yup / yes
+
+Akira aside: No no / No, no, no, no, no, no
+
+Narration: There was a girl named Cinderella.
+
+Narration: She is forced to work every day by her mean stepmother... / She is forced to work every day by her messy stepmother...
+
+Female classmate 4: Kujuku-kun Costume Matching ... / Ninety-nine-kun costume match...
+
+Title: Until I become me / Until I'm me
+
+Author: Hazuki Sato / Sato Yuki
+
+
+Interpretation:
+
+Classmate 1: It suits Nakasone-kun!
+
+Classmate 2: Isn't he cuter than Cinderella?
+
+Narration: Once upon a time
+
+Classmate 3: I only see a girl (in front of me)
+
+Shion: Nakasone-kun is good huh
+
+Aoi: Um. Ah. But she is here
+
+Shion: How about Akira?
+
+Akira: Eh? I wonder nothing...
+
+Shion: Eh? What?
+
+Shion: This isn't handsome enough for you?
+
+Akira: Ah...
+
+Akira: Um
+
+Akira aside: No, about that
+
+Narration: There was a girl named Cinderella
+
+Narration: She was forced to work everyday by her mean stepmother
+
+Female classmate 4: Tsukumo-kun, about costume fitting...
+
+Title: Until I Become Me
+
+Author: Satou Hatsuki
+
+
+---
+
+
+Page CW2
+
+OCR:
+
+一樹!!
+
+ちゃんと参加しろ!
+
+津田ちゃん九十九くん怖くないのかな
+
+私は怖くて苦手
+
+小さいころから一緒らしいよ
+
+アキラサイズはどう?
+
+大丈夫
+
+
+Machine translation:
+
+Natsumi: Kazuki!!
+
+Natsumi: Participate properly! / Join us!
+
+Rumi: I wonder if Tsuda-kun is not scared / Isn't tsuda-chan afraid?
+
+Aside: I'm scared and not good / I'm not good at being scared
+
+Aoi: It seems to be together since I was little / They've been together since they were little.
+
+Rumi: What about Akira size? / How's akira size?
+
+Fine / No problem
+
+
+Interpretation:
+
+Natsumi: Kazuki!!
+
+Natsumi: Participate seriously!
+
+Rumi: Tsuda-chan doesn't afraid of Tsukumo-kun?
+
+Aside: I am scared and not that good
+
+Aoi: [missing translation]
+
+Rumi: How about the size, Akira?
+
+Akira: It's fit
+
+
+---
+
+
+Page CW3
+
+OCR:
+
+けどよりにもよって王子がアキラでシンデレラが九十九くんなんて身長差やばくない?
+
+168cm
+
+140cm
+
+こいつ人が気にしてることを...!
+
+まだ中曽根くんのほうが...
+
+あー!中曽根ぼっきしてるー!!
+
+ちっ
+違っ!
+
+ぼっ
+
+むぐっ
+
+ぎゅっ
+
+サイテー
+
+アキラは知らなくていいのよ
+
+ちょっと!どこ行くのよ!?
+
+便所
+
+劇...大丈夫なのかな?
+
+...
+
+
+Machine translation:
+
+Shion: But the prince is Akira and Cinderella is 99-kun, because of the height difference? / But more than that, the prince is Akira and Cinderella is ninety-nine-
+
+Tsukumo height: 168cm
+
+Akira height: 140cm
+
+Akira (thinking): What this guy cares about ...! / What this guy cares about...!
+
+Shion: Nakasone-kun is still better ... / Nakasone-kun is still...
+
+Tan boy: Ah! / Oh, nakasone is a little too good!!
+
+Nakasome: Different! / It's different!
+
+Aoi: Bob / I'm supsating
+
+Aoi: Mug / I'm supused.
+
+SFX: Tight / I'm sorry.
+
+Shion aside: Cythe / Sitai
+
+Aoi: Akira doesn't need to know / Akira doesn't have to know.
+
+Natsumi: Hey! Where are you going !? / Hey, where are you going?!
+
+Tsukumo: Toilet
+
+Rumi: Play ... Is it okay? / Play... Are you all right?
+
+Akira: ...
+
+
+Interpretation:
+
+Shion: But more than that, how about hight difference between Prince Akira and Cinderella Tsukumo-kun?
+
+Tsukumo height: 168cm
+
+Akira height: 140cm
+
+Akira (thinking): This gal, mind your own business...!
+
+Shion: However, Nakasone-kun is better...
+
+Tan boy: Ahh!! Nakasome has a boner!!
+
+Nakasome: N-No, it is not!
+
+Aoi: *whomp*
+
+Aoi: Fluffy (https://www.web-nihongo.com/j_hougen/jh_p017/)
+
+SFX: *squeeze*
+
+Shion aside: Eww (http://lang-8.com/topics/1326)
+
+Aoi: Akira doesn't need to know that
+
+Natsumi: Hold there! Where are you going!?
+
+Tsukumo: Toilet
+
+Rumi: How about the play... Is it alright?
+
+Akira: ...
+
+
+---
+
+
+Page Tw2/CW4
 
 OCR:
 
@@ -113,11 +414,14 @@ SFX: *flush*
 SFX: *surprise*
 
 
-Page 3
+---
+
+
+Page Tw3/CW5
 
 OCR:
 
-何？
+何？ / なに?
 
 やっ
 
@@ -130,19 +434,19 @@ OCR:
 
 ...
 
-6月の保険の授業あったろ?
+6月の保険の授業あったろ? / 6月の保健の授業あったろ?
 妊娠のやつ
 
 え?
 うん
 
-あの時思ったんだ
+あの時思ったんだ / あのとき思ったんだ
 
 もし俺が女だったらどんな感じだろうって
 
-それでチャンスだと思って...よ
+それでチャンスだと思って...よ / それでチャンスだと思ったんだけど...
 
-気持ち悪いよな
+気持ち悪いよな / 気持ち悪かったよな
 
 
 Machine translation:
@@ -186,7 +490,7 @@ SFX: *look around*
 
 Tsukumo: ...
 
-Tsukumo: Do you remember health class in June? With the pregnancy suits? [ubo: Hatsuki said this release had a typo, and imhikarucat found it here: 保健 for health rather than 保険 for insurance. They both are pronounced "hoken".]
+Tsukumo: Do you remember health class in June? With the pregnancy suits?
 
 Akira: Eh? Yes.
 
@@ -199,7 +503,10 @@ Tsukumo: And so I thought I had an opportunity...
 Tsukumo: Disgusting, isn't it.
 
 
-Page 4
+---
+
+
+Page Tw4/CW6
 
 OCR:
 
@@ -208,6 +515,8 @@ OCR:
 また津田に怒られちまう
 
 あの...！
+
+[CW6] 変じゃ...
 
 気持ち悪くなんて...ないよ...!
 
@@ -220,15 +529,19 @@ Tsukumo: I will be angry again by Tsuda / I'm going to get angry with Tsuda agai
 
 Akira: that...! / Excuse me...!
 
-Akira: I don't feel sick ... no ...! / I don't think it's disgusting. No...!
+[CW6] Akira: Weird ... / It's weird.
+
+Akira: I don't feel sick ... no ...! / I don't think it's disgusting. No...! [ubo: in the CW6 version, this is split across speech bubbles]
 
 
 Interpretation:
 
 Tsukumo: Let's hurry back.
 
-Tsukumo: Otherwise Tsuda will get mad at me again. [imhikarucat: Tsuda is the family name of Natsumi][ubo: that's the angry girl from the first page of this release]
+Tsukumo: Otherwise Tsuda will get mad at me again. [imhikarucat: Tsuda is the family name of Natsumi][ubo: that's the angry girl that calls Tsukumo by his first name]
 
 Akira: Um...!
+
+[CW6] Akira: Wierd no...
 
 Akira: I don't think it's disgusting... at all...!
