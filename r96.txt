@@ -1,7 +1,9 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 96
-Link
+Link: https://twitter.com/hatukisu/status/1240941213387116544
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
 
 Page 1
 
@@ -14,9 +16,7 @@ OCR:
 
 お化粧でもさせてみれば?
 
-もう中学生なんだし
-
-2人とも覚えてもいいんじゃない?
+もう中学生なんだし2人とも覚えてもいいんじゃない?
 
 うちの学校
 化粧禁止だよ
@@ -30,7 +30,7 @@ OCR:
 
 Machine translation:
 
-Tittle: Michiru Watai (Rumi's older sister) / Michiru Watanabe (Rumi's sister)
+Caption: Michiru Watai (Rumi's older sister) / Michiru Watanabe (Rumi's sister)
 
 Michiru: If you don't look confident / If you're not confident in how you look,
 
@@ -40,7 +40,7 @@ Michiru: When I was a junior high school student
 
 Michiru: Can we both remember? / Can't we both remember?
 
-Michiru: Our school No makeup
+Rumi: Our school No makeup
 
 Akira (thinking): make up... / Makeup...
 
@@ -51,23 +51,23 @@ Michiru: And you can get OK at a school festival, right? / And you can get it at
 
 Interpretation:
 
-Tittle: Michiru Watai (Rumi's older sister)
+Caption: Watai Michiru (Rumi's older sister) [ubo: presented here last name first]
 
 Michiru: If you're not confident in your appearance,
 
 Michiru: Why don't you try out some makeup?
 
-Michiru: I was used to be a junior high school student
+Michiru: You're already middle school students.
 
-Michiru: Both of us still remembered, isn't it?
+Michiru: So isn't it about time you both learn to use it?
 
-Michiru: Makeup was prohibited in our school
+Rumi: But makeup is not allowed at our school.
 
 Akira (thinking): Makeup...
 
-Michiru: So just wear it somewhere else
+Michiru: You can wear it outside of school.
 
-Michiru: Beside, wearing makeup at a school festival is also an OK right?
+Michiru: Besides, shouldn't you get the OK if it's for the school festival?
 
 
 ---
@@ -81,6 +81,8 @@ OCR:
 タイゾー
 
 江梨花もいいって!
+
+[
 
 女子会(13)
 
@@ -97,6 +99,8 @@ wata
 エリ力
 
 いいと思う
+
+]
 
 買ったのバレたら怒られるからお母さんには内緒にしてね
 
@@ -134,21 +138,25 @@ Store sign: 100 yen Taizo / ¥100 Taizo
 
 Rumi: Erihana is also good! / Erika is good!
 
+[
+
 Group chat name: Girls' Association (13) / Women's Association (13)
 
-First person name: wata
+Message author 1 (Rumi): wata
 
-State: Read 7 52 / Reading 7 52
+Timestamp 1 (Rumi): Read 7 52 / Reading 7 52
 
-Rumi: I consulted with Akira, but why not just make up instead of just transvestites? / I consulted with Akira, but why don't you try to make up not only for the transvestite?
+Message 1 (Rumi): I consulted with Akira, but why not just make up instead of just transvestites? / I consulted with Akira, but why don't you try to make up not only for the transvestite?
 
-Second person name: Natsumi Tsuda 
+Message author 2 (Natsumi): Natsumi Tsuda 
 
-Natsumi: How nice / Nice
+Sticker message 2 (Natsumi): How nice / Nice
 
-Third person name: Eli power
+Message author 3 (Erika): Eli power
 
-Shion: I think it's good
+Message 3: I think it's good
+
+]
 
 Rumi: I'll be angry if I buy it, so keep it secret to my mother / If you buy it, you'll get angry, so keep it secret from your mother.
 
@@ -179,49 +187,53 @@ SFX: Hyon / Hey, man.
 
 Interpretation:
 
-Store sign: ¥100 Taizo (Taizo - Same price store)
+Store sign: 100 yen Taizo [imhikarucat: Taizo - Same price store]
 
-Rumi: Erika also thinks this is good!
+Rumi: Erika is also on board!
 
-Group chat name: Girls' Association (13)
+[
 
-First person name: wata (This probably is Rumi, wata > watai)
+Group chat name: Girls' Group (13)
 
-State: Read 7 52 (Probably 7 people were read at unknown hour 52)
+Message author 1 (Rumi): wata [imhikarucat: This probably is Rumi, wata > watai][ubo: yup, and her avatar is her hair bun!]
 
-Rumi: I have discussed with Akira. However, cross dressing is not enough. How about some makeup?
+Timestamp 1 (Rumi): Read 7 52 [imhikarucat: Probably 7 people read it so far, with time ending in :52]
 
-Second person name: Natsumi Tsuda 
+Message 1 (Rumi): I was talking with Akira: why don't we, rather than just cross-dress, also use some makeup?
 
-Natsumi: Sounds good (Sticker's text)
+Message author 2 (Natsumi): Natsumi Tsuda 
 
-Third person name: Erika
+Sticker message 2 (Natsumi): Sounds good
 
-Erika: I think it's good
+Message author 3 (Erika): Erika
 
-Rumi: Mom would get angry if found out so keep it secret
+Message 3: I think it's good
 
-Akira: Um
+]
 
-Akira (thinking): I actually coming to buy
+Rumi: Keep this a secret from my mom because she'd get mad if she found out we'd been shopping.
 
-Rumi: Which one do you want? / What do you think? (both are viable in this case)
+Akira: Alright.
 
-Akira: I don't know
+Akira (thinking): We really came here, to buy this stuff.
 
-Rumi: Fufu, me too (Sisterly persona from Rumi)
+Rumi: Which one do you like?
 
-Rumi: Let's buy variety of it and try out
+Akira: I don't know.
 
-Akira (thinking): Try...!?
+Rumi: Hah, me neither.
 
-Akira (thinking): There are so many kinds of cosmetics
+Rumi: Let's buy a variety and try them out.
 
-Akira (thinking): As much as lipstick, I don't know how to use any of these.
+Akira (thinking): Try them out...!?
 
-Cashier: The totall is 1944 yen
+Akira (thinking): There are so many kinds of cosmetics.
 
-Rumi: We bought it, we bought it!
+Akira (thinking): The only one I have the faintest understanding of how it is used is lipstick.
+
+Cashier: That'll be 1944 yen.
+
+Rumi: We bought them, we bought them!
 
 SFX: *jump*
 
@@ -292,19 +304,19 @@ House address sign: Watai
 
 Rumi: Well then, let's try it!
 
-SFX: *sounds of taking stuff out of plastic bag*
+SFX: *rustle*
 
-Akira: Um...
+Akira: Alright...
 
-Akira (thinking): Honestly... I don't want to
+Akira (thinking): Honestly... I don't want to.
 
-Akira (thinking): I don't want to put anything on my face
+Akira (thinking): I don't want to apply anything to my own face.
 
-Rumi: I hope Tsukumo-kun will do it too!
+Rumi: I hope we can convince Tsukumo-kun and the others to do it too!
 
-Akira (thinking): That's right. How about you doing it on the boys and not doing it on me (Akira is using ore here)
+Akira (thinking): That's true. How could I ask any boy to do this without first being willing to go through with it myself?
 
-SFX: *snap*
+SFX: *click*
 
 Rumi: Akira
 
@@ -374,13 +386,13 @@ Akira (thinking): I'm nervous ...! / I'm going to be nervous.
 
 Interpretation:
 
-Rumi: I can know you don't like it just by looking at you
+Rumi: I can tell from your look that you hate the idea of using makeup yourself
 
-Rumi: So
+Rumi: So instead
 
 SFX: *smile*
 
-Rumi: I am used to it
+Rumi: practice on me
 
 Akira: Rumi...
 
@@ -390,10 +402,12 @@ Akira: Thank you
 
 SFX: *rub*
 
-Akira (thinking): However
+Akira (thinking): The thing is
 
-Akira (thinking): This is...
+Akira (thinking): what you're asking from me
 
 SFX: *ba-dump ba-dump*
 
-Akira (thinking): going to be nervous...!
+Akira (thinking): is making me tense...!
+
+[ubo: I explicitly added "the idea of using makeup yourself" because the alternative, simply saying "this", could be misinterpreted as "our time together", which doesn't apply to this friendship, or "anything to do with makeup", which wouldn't be followed up by "so use it... on me!"]
