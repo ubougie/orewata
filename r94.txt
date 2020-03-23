@@ -1,11 +1,12 @@
 Release 94
-Link: https://twitter.com/hatukisu/status/1236228710459510784
+Link [Tw1-Tw3]: https://twitter.com/hatukisu/status/1236228710459510784
+Link [CW7-CW9] <- first 6 pages only]: https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_MF00000120010038_68
 
-First draft: Imhikarucat
-Final version and publishing: Ubo
+First draft (Tw/CW): Imhikarucat
+Final version and publishing (Tw/CW): Ubo
 
 
-Page 1
+Page Tw1/CW7
 
 OCR:
 
@@ -88,7 +89,7 @@ Akira: Ah... Sure thing.
 ---
 
 
-Page 2
+Page Tw2/CW8
 
 OCR: 
 
@@ -164,13 +165,13 @@ Natsumi: Eh
 
 Natsumi: Am I wrong?
 
-Natsumi: Because Akira, you hardly ever talk to boys, and yet aren't you getting close with Kazuki?
+Natsumi: Because, Akira, you hardly ever talk to boys, and yet aren't you getting close with Kazuki?
 
 Akira: That... just sort of happened.
 
 Shion: Tsuda-chan!
 
-Shion: You're wrong, because Akira only likes handsome guys~
+Shion: You're wrong, because Akira only likes handsome guys~ [ubo: Exclusively for the comic-walker edition, this is a callback to the lower middle panel of the first page of release 93. For the Twitter edition, this would sound like Shion is creating a rumour on the spot.]
 
 Natsumi: What!
 
@@ -180,7 +181,7 @@ Akira: Uh... yeah.
 ---
 
 
-Page 3
+Page Tw3/CW9
 
 OCR:
 
@@ -198,13 +199,21 @@ OCR:
 
 !?
 
-だから何でそうなるの!?
+[Tw3] だから何でそうなるの!?
 
-いや気になるじゃん
+[Tw3] いや気になるじゃん
 
-本当に違うの？
+[Tw3] 本当に違うの？
 
-違うって!
+[Tw3] 違うって!
+
+[CW9] だから違うっての!
+
+[CW9] わかってるって
+
+[CW9] でも九十九くんとなんかあった？
+
+[CW9] なんかないとだめ...?
 
 
 Machine translation:
@@ -223,13 +232,21 @@ Rumi: Do you like Kujuku-kun? / Do you like Kujuku-kun?
 
 Akira: !?
 
-Akira: So why is that ?! / So why does that happen!?
+[Tw3] Akira: So why is that ?! / So why does that happen!?
 
-Rumi: No, I'm worried / No, it bothers me.
+[Tw3] Rumi: No, I'm worried / No, it bothers me.
 
-Rumi: Is it really different? / Are you sure it's not?
+[Tw3] Rumi: Is it really different? / Are you sure it's not?
 
-Akira: No!
+[Tw3] Akira: No!
+
+[CW9] That's why it's different!
+
+[CW9] I know / You know that.
+
+[CW9] But did you have something with Kujuku-kun? / But what was it with 99-kun?
+
+[CW9] I have to do something / What do we have to do?
 
 
 Interpretation:
@@ -248,10 +265,18 @@ Rumi: Do you like Tsukumo-kun?
 
 Akira: !?
 
-Akira: Why do you say that!?
+[Tw3] Akira: Why do you say that!?
 
-Rumi: Oh, I am just curious.
+[Tw3] Rumi: Oh, I am just curious.
 
-Rumi: So, is that a no?
+[Tw3] Rumi: So, is that a no?
 
-Akira: NO!
+[Tw3] Akira: NO!
+
+[CW9] Akira: You can't be serious!
+
+[CW9] Rumi: Alright, I get it.
+
+[CW9] Rumi: But, what happened with Tsukumo-kun?
+
+[CW9] Akira (thinking): I have to say something.
