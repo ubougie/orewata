@@ -1,11 +1,12 @@
 Release 95
-Link: https://twitter.com/hatukisu/status/1237328043586117633
+Link [Tw1-Tw4]: https://twitter.com/hatukisu/status/1237328043586117633
+Link [CW10-CW13 <- last 4 pages only]: https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_MF00000120010038_68
 
-First draft: Imhikarucat
-Final version and publishing: Ubo
+First draft (Tw/CW): Imhikarucat
+Final version and publishing (Tw/CW): Ubo
 
 
-Page 1
+Page Tw1/CW10
 
 OCR:
 
@@ -47,13 +48,13 @@ Rumi: Akira
 
 Interpretation:
 
-Akira: Tsukumo-kun says that the role of Cinderella is not suitable to him.
+Akira: Tsukumo-kun says that he cannot suitably play the role of Cinderella.
 
 Akira: It reminds me of how I used to be...
 
-Akira: I wanted to be helpful, but
+Akira: I wanted to help, but
 
-Akira: everyone seems to suspicious about our relationship
+Akira: everyone seems to be suspicious about our relationship
 
 Natsumi: Do you like him?
 
@@ -67,7 +68,7 @@ Rumi: Akira
 ---
 
 
-Page 2
+Page Tw2/CW11
 
 OCR:
 
@@ -79,13 +80,15 @@ OCR:
 
 アキラは仲良くなってるんだもん
 
-SOS! ヤバイ時はコレ
+[Tw2] SOS! ヤバイ時はコレ
+
+[CW11] 「あぶない」と おもったら非常ボタン
 
 私にはできないもんすごいよ
 
 いや...本当たまたま
 
-まだ何もできてないし
+まだ何もできてないし / まだなにもできてないし
 
 また失敗するかもしれないし
 
@@ -104,7 +107,9 @@ Rumi: I always thought that I was just a scary person / I've always thought that
 
 Rumi: Akira is getting along well / Akira's getting along.
 
-Sign: SOS! This is a bad time / Sos! This is the time when I'm not good ejat.
+[Tw2] Sign: SOS! This is a bad time / Sos! This is the time when I'm not good ejat.
+
+[CW11] Sign: Emergency button if you think it's dangerous / Emergency button when you think "no blow"
 
 Rumi: What i can't do / It's amazing what I can't do
 
@@ -129,7 +134,9 @@ Rumi: I always thought that Tsukumo-kun was a scary person
 
 Rumi: but Akira can get along with him!
 
-Sign: SOS! In times of danger, press this.
+[Tw2] Sign: SOS! In times of danger, press this.
+
+[CW11] Sign: Emergency button for when there is grave danger.
 
 Rumi: I definitely couldn't do it, so that's amazing!
 
@@ -149,25 +156,37 @@ Rumi: But you want to help, right?
 ---
 
 
-Page 3
+Page Tw3/CW12
 
 OCR:
 
+[CW12] アキラなら大丈夫!
+
 すっ
+
+[CW12] だから...
 
 やってみようよ
 
 
 Machine translation:
 
+Rumi: Akira is OK! / Akira is fine.
+
 SFX: So / Su
+
+Rumi: So...
 
 Rumi: Let's try / Let's do it.
 
 
 Interpretation:
 
+[CW12] Rumi: With Akira involved, everything will be fine!
+
 SFX: *reach out*
+
+[CW12] Rumi: So...
 
 Rumi: Let's try.
 
@@ -175,7 +194,7 @@ Rumi: Let's try.
 ---
 
 
-Page 4
+Page Tw4/CW13
 
 OCR:
 
