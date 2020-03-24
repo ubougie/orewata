@@ -1,9 +1,11 @@
-[from imhikarucat, early pre-ubo release]
-
 Release 98
 Link: https://twitter.com/hatukisu/status/1242406604428828673
 
-Page 1:
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
+
+Page 1
 
 OCR:
 
@@ -30,9 +32,9 @@ OCR:
 
 Machine translation:
 
-Unknown boy: Hmm? / Yee-ye
+Ribbon girl: Hmm? / Yee-ye
 
-Kikuchi:What?
+Kikuchi: What?
 
 Kikuchi: What are you doing for girls? / What are you going to do to a girl?
 
@@ -42,7 +44,7 @@ Kikuchi: Yada What if I become more beautiful / Oh, my Goodness. What if it's an
 
 Erika: Uze / Whoa, whoa.
 
-Akira (thinking): Then I'll paint the foundation / Well then I'm going to put on a foundation.
+Akira: Then I'll paint the foundation / Well then I'm going to put on a foundation.
 
 Akira (thinking): Face
 
@@ -51,26 +53,26 @@ Akira (thinking): I'm lumpy different from Rumi... / It's different from Rumi.
 
 Interpretation:
 
-Unknown boy: Huh?
+Ribbon girl: Huh?
 
 Kikuchi: What?
 
-Kikuchi: Do you girls know what are you doing?
+Kikuchi: What did the girls do to you guys?
 
-Erika: Don't mess with us
+Erika: No teasing.
 
-Kikuchi: Oh no~ Then I will become more beautiful
+Kikuchi: Oh no! What would I do if I became even more beautiful than this?
 
-Erika: Gross~
+Erika: You're annoying.
 
-Akira: Well then, I will apply foundation
+Akira: Alright. I will apply foundation.
 
-Akira (thinking): The face
+Akira (thinking): His face
 
 Akira (thinking): is different from Rumi, it is more rugged...
 
 
----
+-
 
 
 Page 2
@@ -90,7 +92,7 @@ OCR:
 ありがとな藤宮
 
 
-Machine translation:
+Machine translation: 
 
 Akira (thinking): Yesterday is too thick if it is too dark ... / If it was too dark yesterday, it would be thin.
 
@@ -100,34 +102,34 @@ Akira: How?
 
 Akira: Fine? / No problem?
 
-Kazuki: Yup / yes
+Tsukumo: Yup / yes
 
-Kazuki: Thank you Fujimiya
+Tsukumo: Thank you Fujimiya
 
 
 Interpretation:
 
-Akira (thinking): Yesterday was too thick when I apply the same amount, now it is too thin...
+Akira (thinking): Since I used too much yesterday, I'll use less...
 
-Akira (thinking): It actually like a different creature of some sort
+Akira (thinking): It really looks like a whole different creature.
 
 Akira: So?
 
 Akira: Is it ok?
 
-Kazuki: Yes
+Tsukumo: Yes.
 
-Kazuki: Thank you, Fujimiya
-
-
----
+Tsukumo: Thank you, Fujimiya.
 
 
-Page 3:
+-
+
+
+Page 3
 
 OCR:
 
-やぱっ
+やばっ
 うちら化粧上手くない?
 
 元がいいからな!
@@ -151,8 +153,7 @@ OCR:
 
 魔女は魔法で綺麗なドレスを着せ舞踏会ヘ行けるようにしてくれました
 
-やっぱり
-そうだって
+やっぱりそうだって
 
 王子とシンデレラは
 
@@ -165,17 +166,17 @@ OCR:
 
 Machine translation:
 
-Erika: Ya Are you not good at makeup? / Yapa Aren't we good at makeup?
+Erika: Yaba Are you not good at makeup? / Oh, my Gosh. Aren't we good at makeup?
 
-Kikuchi: Because the source is good! / I like the original!
+Kikushi: Because the source is good! / I like the original!
 
 Erika: Ugly / Whoa, whoa, whoa, whoa
 
-Kazuki: Hey Would you like to continue the practice as it is? / Hey, man. Why don't we continue the practice?
+Tsukumo: Hey Would you like to continue the practice as it is? / Hey, man. Why don't we continue the practice?
 
-Kikuchi: Kazuki ~
+Kikushi: Kazuki ~
 
-Kikuchi: Kazchin ... / Kazuchin...
+Kikuchi aside: Kazchin ... / Kazuchin...
 
 Kikuchi: OK / Okay
 
@@ -191,7 +192,7 @@ Ribbon girl: After all Even so / As expected That's right.
 
 Narration: Prince and Cinderella / The Prince and Cinderella
 
-Kazuki: nice to meet you / Regards
+Tsukumo: nice to meet you / Regards
 
 Akira: Hmm / No, i don'
 
@@ -200,45 +201,49 @@ Narration: I forgot the time and danced
 
 Interpretation:
 
-Erika: Is my makeup success?
+Erika: Are we good at makeup or what?
 
-Kikuchi: The original one is still better!
+Kikuchi: It's because you had a good base to work from!
 
-Erika: Gross
+Erika: Ew.
 
-Kazuki: Hey~ Why don't we continue the practice from early on?
+Kazuki: Hey, why don't we continue the rehearsal like this?
 
 Kikuchi: Kazuki~
 
 Kikuchi: Kazu-chan...
 
-Kikuchi: Great idea
+Kikuchi: Okay!
 
-Rumi: Where do we continue from?
+Rumi: Where were we?
 
-Akira: When the witch left
+Akira: The scene where the witch left.
 
-Erika: Hey~ everyone
+Erika: Okay everyone!
 
-(From this, everything can be interpret/understand as both Cinderella narration and Akira x Kazuki narration)
+Narration: The witch used magic to attire her with a pretty dress, as a way for her to go to the ball.
 
-Narration: The witch use magic to make a beautiful dress. Cinderella puts a dress on and heading straight to the ball
+Ribbon girl: Turns out it's true. [ubo: ie. the rumour]
 
-Ribbon girl: It was true after all (Change script/Akira x Kazuki rummor)
+Narration: The prince and Cinderella
 
-Narration: The prince and Cinderella (Kazuki x Akira)
+Tsukumo: Nice to meet you.
 
-Kazuki: Nice to meet you (This can also understand as Kazuki wants Akira to makeup for him before the play by saying "I am looking forward to")
+Akira: Likewise.
 
-Akira: Um
+Narration: lost track of the time as they danced.
 
-Narration: Forgot the time and kept dancing (They continue their couple like conversation)
+[ubo: For the "Nice to meet you" above, there is a double meaning.
+Cinderella says this because she is meeting the prince for the first time.
+But, parallel to this, there's another meaning, not for their roles in the play, but pertaining to Akira and Tsukumo directly.
+This expression literally can mean "I leave myself in your care", or just a general sentiment of starting a new phase together.
+It is speculative to read into this this second meaning, but imhikarucat also pointed out noticing it.]
 
 
----
+-
 
 
-Page 4:
+Page 4
 
 OCR:
 
@@ -252,9 +257,13 @@ OCR:
 
 もっと盛り上がること
 
-シンデレラ 明
+シンデレラ
+
+明
 
 しようぜ!
+
+[
 
 ー音楽ー
 
@@ -268,6 +277,8 @@ OCR:
 
 もう帰らないと
 
+]
+
 え?
 
 
@@ -275,59 +286,67 @@ Machine translation:
 
 Narration: However / But
 
-Unknown boy: Hey / Oh, my God.
+Black boy: Hey / Oh, my God.
 
-Unknown boy: Just like this Ordinary It's fun! / Just like this. In the ordinary. It's not funny.
+Black boy: Just like this Ordinary It's fun! / Just like this. In the ordinary. It's not funny.
 
-Unknown boy: More exciting / To be more excited
+Black boy: More exciting / To be more excited
 
-Unknown boy: Let's do it!
+Text on book cover: Cinderella
 
-=== Script (Read from right to left, top to bottom)
--Music- / Music
+Text on book cover: Akira / Ming
 
-Cinderella and the prince forgot time and danced. / Cinderella and the prince forgot the time and danced.
+Black boy: Let's do it!
 
-However / But
+[
 
-At 12 o'clock, the magic melts. / At twelve o'clock, the magic breaks.
+Directive: -Music- / Music
 
--12 o'clock bell- / The sound of the bell at twelve o'clock
+Paragraph: Cinderella and the prince forgot time and danced. / Cinderella and the prince forgot the time and danced.
 
-I have to go home / I have to go home now.
-===
+Paragraph: However / But
+
+Highlighted paragraph: At 12 o'clock, the magic melts. / At twelve o'clock, the magic breaks.
+
+Directive: -12 o'clock bell- / The sound of the bell at twelve o'clock
+
+Paragraph: I have to go home / I have to go home now.
+
+]
 
 Akira: e? / What?
 
 
 Interpretation:
 
-Narration: However
+Narration: But suddenly.
 
-Unknown boy: Hey!
+Black boy: Hey!
 
-Unknown boy: Just keeping like this, the play will be interesting!
+Black boy: It's not going to be interesting if it's just going to be like this!
 
-Unknown boy: Thing will be even more excited
+Black boy: Let's
 
-Unknown boy: Let's do it!
+Text on book cover: Cinderella
 
-=== Script (Read from right to left, top to bottom)
-- Music -
+Text on book cover: Akira
 
-Cinderella and the prince
+Black boy: show more enthusiasm!
 
-Forgot the time and kept dancing
+[
 
-However
+Directive: - Music -
 
-When time reached 12
+Paragraph: Cinderella and the prince lost track of the time as they danced.
 
-The magic faded away
+Paragraph: But suddenly.
 
-- 12 o'clock bell sound - 
+Highlighted paragraph: As the clock struck twelve, the magic started to dispel.
 
-Hurry up and go home
-===
+Directive: - 12 o'clock bell sound - 
+
+Paragraph: It's time to go.
+
+]
 
 Akira: Eh?
