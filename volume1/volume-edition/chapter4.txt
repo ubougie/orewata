@@ -80,7 +80,7 @@ OCR:
 
 ポタ
 
-本当は…?
+本当は...?
 
 
 Machine translation:
@@ -97,7 +97,7 @@ Ni / Nit
 
 Pota
 
-Actually…? / In reality...?
+Actually...? / In reality...?
 
 
 Interpretation:
@@ -132,17 +132,17 @@ OCR:
 
 ゴン
 
-朝…
+朝...
 
 暑つ
 
 ゴン
 
-…寝汗ひどいな
+...寝汗ひどいな
 
 さす
 
-ちんちんは…ついてないよな
+ちんちんは...ついてないよな
 
 
 Machine translation:
@@ -155,7 +155,7 @@ Gon
 
 Gon
 
-Morning…
+Morning...
 
 Hot / It's hot.
 
@@ -206,7 +206,7 @@ OCR:
 
 もうどんな形してたかも思い出せないや
 
-シャワー浴びなきゃ…
+シャワー浴びなきゃ...
 
 藤宮明（１０）小学５年生
 
@@ -250,10 +250,7 @@ Narration: Summer
 ---
 
 
-[ubo: STOP! Below this line is imhikarucat's work before I had a chance at it myself]
-
-
-Page 5
+Page 45
 
 OCR:
 
@@ -285,21 +282,21 @@ My hair has grown but my height has been overtaken by girls in class / My hair g
 
 Interpretation:
 
-Akira: I am wetting the bed again so I will take a shower
+Akira: I had night sweats so I'm taking a shower.
 
-Mom: Um
+Mom: Okay.
 
-Mom: Akira's hair is growing huh
+Mom: Your hair has grown, hasn't it?
 
-Akira: Um
+Akira: Yeah.
 
-Narration: My hair growth but my height isn't. All of the girl in the class are overtaken me
+Narration: While my hair might have grown, my height has been overtaken by the girls in my class.
 
 
 ---
 
 
-Page 6
+Page 46
 
 OCR:
 
@@ -307,7 +304,7 @@ OCR:
 
 胸は大きくなりだした
 
-髪が伸びた…か
+髪が伸びた...か
 
 だって伸ばさないとみんなに変だって言われるし
 
@@ -337,17 +334,17 @@ Kyu / Cuku
 
 Interpretation:
 
-Narration: My Height has stopped growing
+Narration: And though I'm not getting any taller,
 
-Narration: And my chest is getting bigger
+Narration: my chest has started to grow.
 
-Akira (thinking): My hair has grown...
+Akira (thinking): My hair has gotten longer...
 
-Akira (thinking): but if it isn't long enough, people will talk weird about me again
+Akira (thinking): but if I didn't let it, people would say it's weird.
 
-Akira (thinking): Back then, I wouldn't think I have to imitate a girl
+Akira (thinking): In those days, imitating girls would have never crossed my mind.
 
-Akira (thinking): I am sure that people from the previous school wouldn't recognize me if they saw me today
+Akira (thinking): Were anyone from my old school to see me today, I doubt they would recognize me.
 
 SFX: *squeak*
 
@@ -355,7 +352,7 @@ SFX: *squeak*
 ---
 
 
-Page 7
+Page 47
 
 OCR:
 
@@ -393,25 +390,25 @@ But I don't want to wear girls' swimwear / But I don't want to wear a girl's bat
 
 Interpretation:
 
-SFX: *whoosh*
+SFX: *shhh*
 
-Everyone: Cold!
+Everyone: It's cold!
 
-Shouma: Huh? Akira
+Shouma: Huh? Fujimiya.
 
-Shouma: is skipping again?
+Shouma: Are you skipping again?
 
-Akira (thinking): I also want to swim
+Akira (thinking): I want to swim too.
 
-Rumi: Akira-chan has a frail body! Leave her alone!!
+Rumi: Akira-chan is sick! Leave her alone!!
 
-Akira (thinking): But I don't want to wear a girls' swimwear
+Akira (thinking): But I don't want to wear a girls' swimwear.
 
 
 ---
 
 
-Page 8
+Page 48
 
 OCR:
 
@@ -423,7 +420,7 @@ OCR:
 
 けど見学するってことは
 
-アレ…だよね?
+アレ...だよね?
 
 アキラちゃん脚!
 
@@ -457,23 +454,23 @@ No
 
 Interpretation:
 
-Narration: When I was just transferred here, I used to watch alone
+Narration: When I first transferred, I was alone on the sidelines.
 
 Voice: Wanna swim?
 
-Narration: As years passed, people watching together increased
+Narration: But as the school year progressed, more would join me.
 
-Akira (thinking): However, if she is watching here, then it is
+Akira (thinking): However, if she is watching from here,
 
-Akira (thinking): because of that... right?
+Akira (thinking): it's because of *that*... right? [ubo: asterisks indicate some kind of emphasis]
 
 Rumi: Akira-chan, your legs!
 
-Akira: Ah, I am sorry
+Akira: Ah, sorry.
 
-Rumi: Class is over, let's go
+Rumi: Class is over, let's go.
 
-Akira: U... um
+Akira: Okay.
 
 
 ---
@@ -495,7 +492,7 @@ OCR:
 
 先生としも話したんだけど
 
-る瑠海ちゃんといっしょにお泊まりしたいから…
+る瑠海ちゃんといっしょにお泊まりしたいから...
 
 プラしてる
 
@@ -503,7 +500,7 @@ OCR:
 
 あと4、5年すればこのしんどさがわかるよ
 
-もしかしてオレもそのうち…?
+もしかしてオレもそのうち...?
 
 
 Machine translation:
@@ -535,25 +532,25 @@ Interpretation:
 
 Sign: Locker room
 
-Rumi: Akira-chan, will you go to the training camp?
+Rumi: Akira-chan, are you going to the training camp?
 
-Rumi: Or you want to sick leave it?
+Rumi: Or will you call in sick?
 
-Akira: No, I will come!
+Akira: No, I'm going!
 
-Rumi: Really? I am so happy
+Rumi: Really? I'm glad.
 
-Akira: I was talked with the teacher
+Akira: I also spoke with our teacher.
 
-Akira: that I wanted to sleep together with Rumi-chan...
+Akira: I said that I wanted to sleep together with Rumi-chan...
 
-Akira (thinking): Wearing bra
+Akira (thinking): She's wearing a bra.
 
-Rumi: You are making me shy and cannot stop grinning (This doesn't suit the situation, maybe something like Oh no, you are making me blush and I cannot stop grinning)
+Rumi: Don't flatter me so much, I can't hold back my smile!
 
-Michiru: In 4 or 5 years, you too will understand this tiresome situation
+Michiru: You too will understand the depths of my suffering in 4 or 5 years. [ubo: I took the same wording kurisu used. It doesn't include the "Rumi" part because that was also removed in the flashback text.]
 
-Akira (thinking): Perhaps mine will be someday...?
+Akira (thinking): Perhaps the same fate awaits me...?
 
 
 ---
@@ -563,7 +560,7 @@ Page 10
 
 OCR:
 
-嫌だなあ…
+嫌だなあ...
 
 ズキッ
 
@@ -601,19 +598,18 @@ All right / No problem
 
 Interpretation:
 
-Akira (thinking): I don't want to...
+Akira (thinking): I hate it...
 
-SFX: *throb*
+SFX: *tense*
 
 Akira: ?
 
 Akira: Ouch
 
-SFX: *painful tingle*
+SFX: *throb*
 
 Rumi: Akira-chan, are you okay?
 
-Akira: Um
+Akira: Yeah.
 
-Akira: I am fine
-
+Akira: I'm okay.
