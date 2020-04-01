@@ -1,8 +1,14 @@
-[from imhikarucat, early pre-ubo release]
+[the first four pages have been processed by ubo, the rest is from imhikarucat (early pre-ubo release)]
 
 Chapter 4
 
-Page 1
+Contributors:
+
+First draft: Imhikarucat
+Final version and publishing: Ubo
+
+
+Page 41
 
 OCR:
 
@@ -10,7 +16,7 @@ OCR:
 
 笠4話
 
-元気ありあまってて見てるほうは不安ですよ、
+元気ありあまってて見てるほうは不安ですよ
 
 グネッ
 
@@ -40,11 +46,11 @@ Ah! Akira!! / Oh, my God. Akira!!
 
 Interpretation:
 
-Some parent: Akira-kun is so much taller and energentic. He will going to make a name for himself in the future
+Some parent: Akira-kun is so tall and energetic. He will surely be a big shot when he grows up.
 
-Chapter 4
+Title: Chapter 4
 
-Probably Akira's mom: Because he is an active boy, I am worried when watching him
+Akira's mom: Yeah, but due to his excessive energy, watching him makes me nervous.
 
 SFX: *wiggle*
 
@@ -58,7 +64,7 @@ Everyone: Ah! Akira!!
 ---
 
 
-Page 2
+Page 42
 
 OCR:
 
@@ -96,11 +102,11 @@ Actually…? / In reality...?
 
 Interpretation:
 
-SFX: *fwap*
+SFX: *lift head*
 
-Akira: It doesn't hurt at all!!
+Akira: It doesn't hurt!!
 
-Akira: I am a man so I won't cry
+Akira: I won't cry because I'm a guy.
 
 Everyone: Nose bleed! Your nose is bleeding!!
 
@@ -114,7 +120,7 @@ Narration: Is this real...?
 ---
 
 
-Page 3
+Page 43
 
 OCR:
 
@@ -132,7 +138,7 @@ OCR:
 
 ゴン
 
-…宴汗ひどいな
+…寝汗ひどいな
 
 さす
 
@@ -174,23 +180,27 @@ SFX: *rustle*
 
 Akira (thinking): It's morning...
 
-Akira (thinking): So hot
+Akira (thinking): It's hot.
 
 SFX: *rustle*
 
-Akira (thinking): ... I wet the bed again
+Akira (thinking): ...The night sweats are terrible.
 
-SFX: *rub rub*
+SFX: *rub*
 
-Akira (thinking): My wiener... hasn't coming back...
+Akira (thinking): My wiener... is still not there.
 
 
 ---
 
 
-Page 4
+Page 44
 
-OCR: 
+OCR:
+
+平成◯◯年度
+宿泊研修
+しおり
 
 はぁ
 
@@ -205,6 +215,8 @@ OCR:
 
 Machine translation:
 
+Fiscal year Accommodation training bookmark / Heisei Year Accommodation training bookmarks
+
 Huh / Sigh
 
 I can't remember how it was shaped / I can't even remember what shape it was like anymore.
@@ -218,9 +230,15 @@ summer
 
 Interpretation:
 
-Akira: Haaaaa
+Book cover (first line): School year ◯◯
+Book cover (second line): Training Camp
+Book cover (third line): Guide Book
 
-Akira: I can't even remember the shape of it already
+[ubo: The footer isn't worth translating. It appears to be phone number and price.]
+
+Akira: Haaa
+
+Akira: I can't even remember what shape it might have taken anymore.
 
 Akira: I need to take a shower...
 
@@ -230,6 +248,9 @@ Narration: Summer
 
 
 ---
+
+
+[ubo: STOP! Below this line is imhikarucat's work before I had a chance at it myself]
 
 
 Page 5
