@@ -1,4 +1,4 @@
-[from PoA, early release]
+[from ubo, early release]
 
 Chapter 5
 
@@ -33,7 +33,7 @@ Shouma: Hey
 
 Shouma: Morning, Fujimiya.
 
-Shouma: We're in the same cooking group today so, nice to meetcha.
+Shouma: We're in the same cooking group today so, nice to meet ya.
 
 Chapter 5
 
@@ -117,7 +117,7 @@ Someone: Did you bring your Duel King cards?
 
 Someone (probably Shouma): Yeah! Let's battle tonight then.
 
-SFX: *suprised flinch*
+SFX: *ear twitching*
 
 Rumi: Akira-chan
 
@@ -125,7 +125,7 @@ Akira: Hm?
 
 Akira: What?
 
-SFX: *grope*
+SFX: *rub*
 
 Akira: Wha
 
@@ -137,7 +137,7 @@ Akira (thinking): You surprised me!
 
 SFX: *bump*
 
-Erika: Rumiii~ your spot looks so much funner than mine. Can I get some sunscreen too?
+Erika: Rumiii~ you two seem to be having fun over there. Sorry, but would you mind putting some of that on me too?
 
 Rumi: Sure!
 
@@ -198,26 +198,26 @@ OCR:
 
 Interpretation:
 
-Rumi: I was like, when I first met Akira-chan, I thought,
+Rumi: When I first saw Akira-chan, I thought,
 
-Rumi: This kid could be totally cute if she dressed nicer
+Rumi: This girl could be super cute if she dressed nicer
 
 Rumi: But then, the more I talked and played with her, the more I got to like her
 
-Rumi: So much that if Akira-chan were really a boy,
+Rumi: So much that if Akira-chan were a boy instead,
 
-Rumi: I think I'd want to go out with her too!
+Rumi: I think I'd want to go out with her!
 
-Erika: Darn... you fell in love with her.
+Erika: No way! You've fallen in love.
 
-Akira: I don't really know how to respond to that!
+Akira: I don't really know how to feel about that!
 
 SFX: Haha...
 
-SFX: Ufufu
+SFX: Oohoohoo [from PoA]
 SFX: Ahahaha
 
-Rumi: Ahh, right. That was kind of a weird thing to say. I'm sorry.
+Rumi: Yeah, that was kind of a weird thing to say, wasn't it? I'm sorry.
 
 
 Page 54
@@ -267,17 +267,17 @@ OCR:
 
 Interpretation:
 
-Teacher: Boys! Don't run - it's dangerous!
+Teacher: Boys! Don't run — it's dangerous! [dash by PoA]
 
 Rumi: Akira-chan, are you okay?
 
-SFX: *gasp gasp* 
+SFX: *pant pant*
 
-Teacher: Are you okay? Are you not feeling very well?
+Teacher: Are you okay? Do you feel sick?
 
 Akira: I-I'm fine.
 
-Akira: Darn it, I'm so out of shape.
+Akira: Darn it. I'm so weak now.
 
 Akira: !?
 
@@ -285,7 +285,7 @@ Rumi: It's hot out, so you should tie your hair up.
 
 Narration: Rumi-chan wants to make me(o) more feminine
 
-Narration: I guess it must be because I'm a girl now.
+Narration: I guess it must be because I'm a girl now. [ubo: skeptical of this phrasing]
 
 Rumi: There, I tied it up.
 
@@ -340,21 +340,21 @@ Akira: No, I'm fine.
 
 SFX: *snap*
 
-Akira (thinking): ... still gonna turn back someday...
+Akira (thinking): ... still gonna turn back someday.
 
-Akira: *pant*
+Akira: *huff*
 
-Akira: *pant*
+Akira: *huff*
 
 Erika: Oh hey, you made it
 
-SFX: *gasp gasp*
+SFX: *pant pant*
 
 Teacher: Alright, let's take a few group pictures! Then we'll climb back down the mountain.
 
 Akira: Gah!!
 
-SFX: *shock*
+SFX: *gloom*
 
 
 ---
@@ -403,15 +403,15 @@ Interpretation:
 
 Erika: Fujimiya-san, you're really good at this!
 
-SFX: *pause*
+SFX: *peel*
 
 Someone: Yeah
 
-Akira: Really...?
+Akira: You think so...?
 
-Erika: Yeah, you are!
+Erika: Absolutely!
 
-Erika: I can't peel nearly that well
+Erika: I know *I* can't peel nearly that well
 
 Narration: I'm able to do a bit of housework now, since I've been helping out with grandma.
 
@@ -521,7 +521,7 @@ OCR:
 
 Interpretation:
 
-Akira (thinking): It's cramped in here
+Akira (thinking): We're packed in tight
 
 Everyone: Let's eat
 
@@ -535,13 +535,13 @@ Erika: ...
 
 SFX: *munch munch*
 
-Someone: The vegetables feel kinda tough...
+Someone: The vegetables are still kinda hard...
 
 Black shirt boy: Hey, was this cooked right?
 
-Erika: What're you talking about? You can barely cook, yourself!
+Erika: Really? Quit whining, you barely even helped!
 
-Akira: Oh no, they're gonna fight
+Akira: Oh no, they're fighting...
 
 Athe: Rumi: I was supposed to watch the pot.
 
@@ -551,7 +551,7 @@ Shouma: You don't have to apologize. You can eat it if you just chew it well.
 
 Erika: That's right! Rumi doesn't have to apologize!
 
-Akira: I(o) was also supposed to watch it...
+Akira: Actually, Rumi and I(o) were watching it together...
 
 
 ---
@@ -612,19 +612,19 @@ Akira: I'll put away that box over there.
 
 Rumi: Isn't it heavy though?
 
-Akira (thinking): My strength! I have to get it back.
+Akira (thinking): I gotta do something after screwing up that curry.
 
 SFX: *grunt*
 
-Erika: Hey, I didn't say that ["Hey look, [...]". Will come back to this line.]
+Erika: Look, there, see what I was talking about?
 
 Shouma: Can I carry that for you?
 
 Akira: No! I'm fine!
 
-Shouma: Well then, let's carry it together
+Shouma: Then, how about we carry it together?
 
-Akira: Well then...
+Akira: Well, if that's how it's gonna be...
 
 Box: Charcoal
 
@@ -632,7 +632,7 @@ Erika: Fujimiya-chan, he's like that with everybody, so don't get any funny idea
 
 Shouma: Hey, don't tease me!
 
-Akira (thinking): Shouma... he's not such a bad guy after all, I guess
+Akira (thinking): I guess he's not such a bad guy...
 
 
 ---
@@ -682,11 +682,11 @@ Interpretation:
 
 Shouma: Give them baaaack!
 
-Teacher: Cards other than standard playing cards are against the rules.
+Teacher: You're not allowed to have any cards except for standard playing cards.
 
-Teacher: I'm taking it away!
+Teacher: I'm taking them away!
 
-Rumi: What did Shouma-kun bring along?
+Rumi: What did Shouma-kun have?
 
 Akira (thinking): It's those Duel-Oh! cards
 
@@ -736,7 +736,7 @@ OCR:
 
 Interpretation:
 
-Teacher: You can still take a shower even after lights out.
+Teacher: You can still take a bath even after lights out.
 
 Teacher: The bathroom isn't in the cabin. You'll have to go out to use it, okay?
 
