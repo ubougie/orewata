@@ -50,7 +50,7 @@ Title: Chapter 4
 
 Akira's mom: Yeah, but due to his excessive energy, watching him makes me nervous.
 
-SFX: *wiggle*
+SFX: *stumble*
 
 Akira: Ah
 
@@ -108,7 +108,7 @@ Akira: I won't cry because I'm a guy.
 
 Everyone: Nose bleed! Your nose is bleeding!!
 
-SFX: *smirk*
+SFX: *smile*
 
 SFX: *drip*
 
@@ -228,7 +228,7 @@ summer
 
 Interpretation:
 
-Book cover (first line): School year ◯◯
+Book cover (first line): School year XX
 Book cover (second line): Training Camp
 Book cover (third line): Guide Book
 
@@ -236,7 +236,7 @@ Book cover (third line): Guide Book
 
 Akira: Haaa
 
-Akira: I can't even remember what shape it might have taken anymore.
+Akira: I can't even remember it's shape anymore.
 
 Akira: I need to take a shower...
 
@@ -340,9 +340,9 @@ Akira (thinking): My hair has gotten longer...
 
 Akira (thinking): but if I didn't let it, people would say it's weird.
 
-Akira (thinking): In those days, imitating girls would have never crossed my mind.
+Akira (thinking): In those days, acting like a girl would have never crossed my mind.
 
-Akira (thinking): Were anyone from my old school to see me today, I doubt they would recognize me.
+Akira (thinking): If anyone from my old school saw me today, I doubt they would recognize me.
 
 SFX: *squeak*
 
@@ -400,7 +400,7 @@ Akira (thinking): I want to swim too.
 
 Rumi: Akira-chan is sick! Leave her alone!!
 
-Akira (thinking): But I don't want to wear a girls' swimwear.
+Akira (thinking): But I don't want to wear a girls' swimsuit.
 
 
 ---
@@ -452,13 +452,13 @@ No
 
 Interpretation:
 
-Narration: When I first transferred, I was alone on the sidelines.
+Narration: When I first transferred, I was alone on the poolside.
 
 Voice: Wanna swim?
 
-Narration: But as the school year progressed, more would join me.
+Narration: But as the school year progressed, more people watched alongside me.
 
-Akira (thinking): However, if she is watching from here,
+Akira (thinking): However, if she is here with me,
 
 Akira (thinking): it's because of *that*... right? [ubo: asterisks indicate some kind of emphasis]
 
@@ -468,7 +468,7 @@ Akira: Ah, sorry.
 
 Rumi: Class is over, let's go.
 
-Akira: O-okay.
+Akira: O- Okay.
 
 
 ---
@@ -532,29 +532,29 @@ Sign: Locker room
 
 Rumi: Akira-chan, are you going to the training camp?
 
-Rumi: Or will you call in sick?
+Rumi: Or will you be absent?
 
 Akira: No, I'm going!
 
 Rumi: Really? I'm glad.
 
-Akira: I also spoke with our teacher.
+Akira: Of course we'd have to check with the teacher,
 
-Akira: I-I said that I wanted to sleep together with Rumi-chan...
+Akira: B- But I would like to sleep together with you, Rumi-chan.
 
 Akira (thinking): She's wearing a bra.
 
-Rumi: Don't flatter me so much, I can't hold back my smile!
+Rumi: When you say things like that, I can't stop myself from smiling!
 
 Michiru: You too will understand the depths of my suffering in 4 or 5 years. [ubo: I took the same wording kurisu used. It doesn't include the "Rumi" part because that was also removed in the flashback text.]
 
-Akira (thinking): Perhaps the same fate awaits me...?
+Akira (thinking): Could that happen to me too...?
 
 
 ---
 
 
-Page 10
+Page 50
 
 OCR:
 
@@ -596,7 +596,7 @@ All right / No problem
 
 Interpretation:
 
-Akira (thinking): I hate it...
+Akira (thinking): I don't want that...
 
 SFX: *tense*
 
