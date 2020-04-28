@@ -1,4 +1,6 @@
-[this is a work in progress, first 6 pages are ubo version, last 6 are cat's]
+[this is a work in progress, first 9 pages are ubo version, last 3 are cat's]
+
+Chapter 12 pre-serialize release
 
 Page 1
 
@@ -491,9 +493,6 @@ Akira: No, I want to say it myself.
 ---
 
 
-[Above this point is ubo's version, beneath this point is cat's]
-
-
 Page 7
 
 OCR:
@@ -515,8 +514,7 @@ OCR:
 こんにちは
 アキラちゃん
 リハビリだって
-ちょうどいい
-時に来たね
+ちょうどいい時に来たね
 
 え?
 
@@ -530,7 +528,7 @@ OCR:
 アキラちゃん
 なら着れるんじゃ
 ないかって持って
-きたんだけど…
+きたんだけどこれなんだけど…
 
 これなんだけど
 
@@ -539,25 +537,25 @@ Interpretation:
 
 Sign from left to right, vertical: Tanaka, Chiba, Abe, Satou
 
-SFX: *slam*
+SFX: *clack*
 
 Someone saying in the background: Akira-chan~
 
 Akira: Hello
 
-Akira: Heh? Grandma?
+Akira: Huh? Where's grandma?
 
-Someone (probably Shion's mom - ubo's speculation): Hello Akira-chan. Rehab time was just started
+Visitor: Hello Akira-chan. She left for rehab, but you came at the right time.
 
 Akira: Eh?
 
-SFX: *nudge bump*
+SFX: *rummage*
 
-Shion's mom: Honestly, this dress I bought was for pregnancy but the size didn't fit me
+Visitor: You see, when I was pregnant, I bought something, but it didn't fit me,
 
-Shion's mom: So I brought it here to see if Akira-chan could fit it...
+Visitor: So I brought it here to see if maybe you could try it on...
 
-Shion's mom: It's this
+Visitor: Here it is.
 
 
 --
@@ -567,7 +565,7 @@ Page 8
 
 OCR:
 
-どうかな32?
+どうかな?
 
 あ
 気に入ら
@@ -591,17 +589,21 @@ OCR:
 
 Interpretation:
 
-Shion's mom: How do you think?
+Visitor: What do you think?
 
-Shion's mom: You don't like it?
+Visitor: Do you not like it?
 
 Akira: Um...
 
-Okabe: She want to wear it! Now! Immediately! Right?
+Okabe: She'll wear it! Now! At once! Right?
 
 Akira: Eh?
 
-Okabe: It's a precious dress. You can use the locker room to try it!
+Okabe: [ubo: I'm indecisive right now, so I'll present two options:]
+* It is a rare opportunity, you should go for it! You can use the locker room.
+* She went through the trouble to bring it, so you should wear it! You can use the locker room.
+
+Akira: Ok.
 
 
 ---
@@ -632,14 +634,17 @@ Interpretation:
 
 Sign: Locker room
 
-Akira (thinking): I have never wear this type of skirt before...
+Akira (thinking): I've never put on this kind of dress before...
 
-Akira (thinking): Before that, whenever I am wearing a skirt or a bra, people made me to wear it
+Akira (thinking): Before, when I wore a dress or went bra shopping, it was because others made me.
 
-Akira (thinking): This time... I can wear it anytime I want...!
+Akira (thinking): This time... I'm doing this because I'm choosing to...!
 
 
 ---
+
+
+[Above this point is ubo's version, beneath this point is cat's]
 
 
 Page 10
