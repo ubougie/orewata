@@ -303,7 +303,7 @@ Board:
 - Sister A: Nakasone
 - Sister B: Sahara [ubo: The name is mostly clipped, but I'm just that good.]
 
-[ubo: see file r92.png in this same directory to see headshots of each of these six people. The faces are in the same order as this list above, assuming you read the image from left to right, as in: 1, 2; 3, 4; 5, 6.]
+[ubo: see file r092.png in this same directory to see headshots of each of these six people. The faces are in the same order as this list above, assuming you read the image from left to right, as in: 1, 2; 3, 4; 5, 6.]
 
 [ubo: I rattled my brain to make this whole lottery thing make sense, and this is what I have come up with:
 1) There are two boxes even though we only ever see one: one is for boys and one is for girls.
