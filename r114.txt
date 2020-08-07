@@ -23,6 +23,10 @@ OCR:
 
 ぷんすか
 
+もういいって!
+
+......
+
 アキラ
 行こ!
 
@@ -44,6 +48,10 @@ Ok / Well, my God. / See you then.
 Everyone... Today really... / Everyone... Today is really... / Guys... Today, I really...
 
 Punsuka (x2) / Puns.
+
+It's already good! / That's enough! / Enough!
+
+......
 
 Go to Akira! / Akira Go! / Akira, let's go!
 
@@ -167,7 +175,7 @@ How much did you harden and throw! / I threw it with a lot of hardens! / How har
 
 Akira Are you alright? / Akira, are you okay? / Akira, are you alright?
 
-Yeah...I don't think it's because of snow... / yes... I don't think it's because of the snow. / Yeah, I don't think it was the snow. I don't think it's the snow...
+Yeah...I don't think it's because of snow... / yes... I don't think it's because of the snow. / Yeah, I don't think it was the snow...
 
 maybe / Probably / I think...
 
@@ -183,6 +191,8 @@ OCR:
 転んだ時に
 ぶっけたんじゃ
 ないかな...
+
+あ
 
 佐原とは本当に
 何にもなかったからね!
@@ -206,6 +216,8 @@ OCR:
 Machine Translation:
 
 I wonder if I fell asleep when I fell down the stairs... / I guess I hit it when I fell down the stairs. / I must have hit him when he fell on the stairs...
+
+Ah
 
 I really didn't have anything with Sahara! / There was really nothing with Sawara! / Nothing really happened between Sawara and me!
 
