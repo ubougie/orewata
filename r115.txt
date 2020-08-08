@@ -10,6 +10,8 @@ OCR:
 
 ホルホル
 
+くいくい
+
 おっしゃ!
 
 おらおら
@@ -32,6 +34,8 @@ OCR:
 Machine Translation:
 
 Hol Hol / Holhor / horrible
+
+kuikui (x2) / feeling a surge of anger
 
 Thank you! / That's what I'm talk / Whoa!
 
@@ -98,6 +102,8 @@ OCR:
 
 でもなぁ
 
+AVはなぁ...
+
 興味が
 わかないのは...
 
@@ -121,6 +127,8 @@ I think it's bad for 99 / You said it was bad for ninety-nine. / And you've done
 I said on TV that when I became a junior high school student I would be interested in such things... / He said on TV that when he became a junior high school student, he would be interested in that kind of thing. / They said on TV that kids in junior high school will be more interested in that kind of thing.
 
 But eh / But, you know. / But you know...
+
+AV is... / Av I wonder ... / I don't know about porn, but...
 
 What I'm not interested in... / I'm not interested in... / I'm not interested in that because...
 
