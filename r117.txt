@@ -85,7 +85,7 @@ OCR:
 
 わたし...今...
 
-ドキ
+ドキドキッ
 
 お姉ちゃんに
 めっちゃ
@@ -112,7 +112,7 @@ Throb / Pounding / Oh, my gosh.
 
 I... now... / I... I was just...
 
-Doki (x2) / Boom.
+Pounding / Dokidoki / bang-bang
 
 I really want to spoil my sister...! / I want to be very sweet to my sister....! / I want you to spoil my sister so badly.
 
@@ -163,6 +163,8 @@ OCR:
 可愛い格好をしたい
 けど...
 
+きゅっ
+
 どこかでまだ
 自分は男だって
 思ってて...
@@ -186,6 +188,8 @@ Machine Translation:
 I...
 
 I want to dress like a girl and dress cute... / I want to wear girl's clothes and look cute, but... / I mean, I want to wear girls' clothes and dress cute, but...
+
+Kyu (x2) / (with a) bang
 
 Somewhere I still thought I was a man... / Somewhere I still think I'm a man / But somewhere along the line, I knew I was still a man.
 
