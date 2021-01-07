@@ -29,6 +29,15 @@ Click *5
 肌にはりく感じが嫌いなんだよ
 I don't like feeling how it sticks to my skin.
 
+	木金土火木
+	Thu Fri Sat Tue Thu
+	ヒーロ図
+	Heroes
+	ぽ
+	Po??? [urugiru: ぽんぽこ, or Ponpoko, a Vtuber the author, Hatsuki, is either affiliated with or is a fan of. Easter eggs related to this Vtuber are common in this series.]
+	必勝
+	Victory
+
 え...? 學校でも...?
 Huh...? What about school?
 
@@ -65,6 +74,9 @@ But I really don't understand much about it.
 上手くごまかす方法ないかな？
 Do you think there is any way to humor them?
 
+	マンガジン
+	Manga Magazine
+
 わかんないでよくね？
 Can't you just tell them you don't know?
 
@@ -85,6 +97,11 @@ Let's try another game.
 
 モゾモゾ
 Crawl
+
+	人間くん
+	Human-kun
+	ハダカ男ゲン
+	The Naked Man
 
 
 Page 3
